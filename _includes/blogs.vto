@@ -1,0 +1,15 @@
+---
+layout: layout.vto
+description: NAME's blogs.
+---
+<h1>My blogposts (page {{ currentPage }}/{{ totalPages }})</h1>
+
+<div class="blog-list">
+{{ for result of results }}
+    <a href="{{ result.url }}" class="blog-entry">
+        <span class="blog-desc-title">{{ result.description }}</span>
+        <span class="blog-desc-text">Date: {{ result.date |> formatDate }}</span>
+        <span class="blog-desc-text">Tags: {{ result.tags |> formatTags }}</span>
+    </a>
+{{ /for }}
+</div>

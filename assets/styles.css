@@ -1,0 +1,72 @@
+body {
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0% 20%;
+  font-size: 16px;
+}
+
+p {
+  max-width: 75%;
+}
+
+.title {
+  font-size: 54px;
+}
+
+.pfp {
+  float: right;
+}
+
+@media (max-width: 1000px) {
+  .pfp {
+    float: none;
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.subtitle {
+  font-size: 14px;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  width: 20%;
+  text-align: left;
+}
+
+nav {
+  height: 20%;
+}
+
+nav > a {
+  margin-right: 2%;
+}
+
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.blog-entry {
+  display: flex;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  align-items: center;
+}
+
+.blog-desc-title {
+  width: 20%;
+  font-weight: bold;
+  text-align: left;
+}
+
+.blog-desc-text {
+  margin-right: 2%;
+}

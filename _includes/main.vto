@@ -1,0 +1,51 @@
+---
+layout: layout.vto
+subtitle: First year computer science student at the University of Illinois Urbana-Champaign
+description: NAME's site, describing NAME.
+---
+
+
+<div class="title">
+
+{{ name }}
+
+<p class="subtitle">{{ subtitle }}</p>
+
+</div>
+
+<img fetchpriority=high height=196 width=196 class="pfp" src="/assets/picture.webp" alt="A picture of {{ name }}. {{ name }} faces the camera and smiles."/>
+
+{{ content }}
+
+<br>
+
+<h2>Happenings</h2>
+<table>
+{{ for happening of happenings }}
+    <tr>
+    <th scope="row"> {{ happening.date |> formatDate }} </th>
+    <td> {{ happening.title }} </td>
+    </tr>
+{{ /for }}
+</table>
+
+<h2>Blog posts</h2>
+<div class="blog-list">
+{{ for result of search.pages("blog", "date=desc", 5) }}
+    <a href="{{ result.url }}" class="blog-entry">
+        <span class="blog-desc-title">{{ result.description }}</span>
+        <span class="blog-desc-text">Date: {{ result.date |> formatDate }}</span>
+        <span class="blog-desc-text">Tags: {{ result.tags |> formatTags }}</span>
+    </a>
+{{ /for }}
+</div>
+
+<h2>Contact Information</h2>
+<table>
+{{ for contactInfo of contact }}
+    <tr>
+    <th scope="row"> {{ contactInfo.type }} </th>
+    <td> {{ contactInfo.info }} </td>
+    </tr>
+{{ /for }}
+</table>
