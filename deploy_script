@@ -1,5 +1,0 @@
-lcd _site
-cd public_html
-PUT -r *
-chmod 755 *
-chmod 755 assets/*
