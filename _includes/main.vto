@@ -45,7 +45,13 @@ description: NAME's site, describing NAME.
 {{ for contactInfo of contact }}
     <tr>
     <th scope="row"> {{ contactInfo.type }} </th>
-    <td> {{ contactInfo.info }} </td>
+    <td> 
+        {{ if contactInfo.info.startsWith("https") }}
+        <a href="{{contactInfo.info}}">{{contactInfo.info}}</a>
+        {{ else }}
+        {{ contactInfo.info }}
+        {{ /if }}
+        </td>
     </tr>
 {{ /for }}
 </table>
