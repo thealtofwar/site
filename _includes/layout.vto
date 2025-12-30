@@ -13,7 +13,10 @@
       <a href="/blog/">Blog</a>
     </nav>
     {{ content |> replacePlaceholders }}
-    <p>© 2025 {{ name }}</p>
-    <p></p>
+    <p class="footer">
+      © 2025 {{ name }}
+      <br>
+      <a rel="noopener" target="_blank" href="https://github.com/thealtofwar/site">This site</a> is open-source software, and it incorporates components from other open-source projects.
+    </p>
   </body>
 </html>
