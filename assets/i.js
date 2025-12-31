@@ -1,1 +1,1 @@
-c=4;onkeypress=e=>e.key=='i'&c>3&&c--?0:e.key=='l'&c<4?c--&&c<2&&(c=4)&&alert("I-N-I!"):(c=4)
+c=4;onkeypress=e=>e.key=='i'&&c>3&&c--?0:e.key=='l'&c<4?c--&&c<2&&(c=4)&&alert("I-N-I!"):(c=4)
