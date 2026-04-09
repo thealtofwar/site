@@ -4,10 +4,6 @@ body {
   font-size: 16px;
 }
 
-p {
-  max-width: 75%;
-}
-
 .title {
   font-size: 54px;
 }
@@ -68,6 +64,7 @@ nav > a {
 }
 
 .blog-desc-text {
+  width: 20%;
   margin-right: 2%;
 }
 

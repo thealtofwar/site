@@ -21,7 +21,7 @@ description: NAME's site, describing NAME.
 
 <h2>Happenings</h2>
 <table>
-{{ for happening of happenings }}
+{{ for happening of happenings.reverse() }}
     <tr>
     <th scope="row"> {{ happening.date |> formatDate }} </th>
     <td> {{ happening.title }} </td>
@@ -46,8 +46,8 @@ description: NAME's site, describing NAME.
     <tr>
     <th scope="row"> {{ contactInfo.type }} </th>
     <td> 
-        {{ if contactInfo.info.startsWith("https") }}
-        <a href="{{contactInfo.info}}">{{contactInfo.info}}</a>
+        {{ if contactInfo.info.startsWith("https://") }}
+        <a href="{{contactInfo.info}}" target="_blank">{{contactInfo.info}}</a>
         {{ else }}
         {{ contactInfo.info }}
         {{ /if }}
