@@ -21,7 +21,7 @@ description: NAME's site, describing NAME.
 
 <h2>Happenings</h2>
 <table>
-{{ for happening of happenings.reverse() }}
+{{ for happening of happenings.sort((a, b) => new Date(b.date) - new Date(a.date)) }}
     <tr>
     <th scope="row"> {{ happening.date |> formatDate }} </th>
     <td> {{ happening.title }} </td>
