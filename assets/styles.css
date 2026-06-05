@@ -22,6 +22,12 @@ body {
   }
 }
 
+:root {
+  --column-margin: 0%;
+  --column-width: 25%
+}
+
+
 .subtitle {
   font-size: 14px;
 }
@@ -31,7 +37,8 @@ table {
 }
 
 th {
-  width: 20%;
+  width: var(--column-width);
+  margin-right: var(--column-margin);
   text-align: left;
 }
 
@@ -58,13 +65,14 @@ nav > a {
 }
 
 .blog-desc-title {
-  width: 20%;
+  width: var(--column-width);
+  margin-right: var(--column-margin);
   font-weight: bold;
+  text-decoration: underline;
   text-align: left;
 }
 
 .blog-desc-text {
-  width: 20%;
   margin-right: 2%;
 }
 

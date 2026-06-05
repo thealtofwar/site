@@ -46,11 +46,11 @@ site.filter("replacePlaceholders", (original: string) => {
 });
 
 site.filter("formatTags", (tags: string[]) => {
-    const tags_filtered = tags.filter((t) => t !== "blog");
+    const filteredTags = tags.filter((t) => t !== "blog");
     let result = "";
-    for (const [index, item] of tags_filtered.entries()) {
+    for (const [index, item] of filteredTags.entries()) {
         result += item;
-        if (index < tags_filtered.length - 1) {
+        if (index < filteredTags.length - 1) {
             result += ", "
         }
     }
