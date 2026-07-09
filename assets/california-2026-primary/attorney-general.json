@@ -1,0 +1,1654 @@
+[
+    {
+        "raceTitle": "Attorney General - Statewide Results",
+        "Reporting": "100% (19,788 of 19,788) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "4,979,966",
+                "Percent": "56.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "3,337,426",
+                "Percent": "37.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "478,447",
+                "Percent": "5.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Alameda County Results",
+        "Reporting": "100% (546 of 546) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:21 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "282,776",
+                "Percent": "74.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "74,621",
+                "Percent": "19.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "23,755",
+                "Percent": "6.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Alpine County Results",
+        "Reporting": "100% (5 of 5) precincts reporting",
+        "ReportingTime": "June 10, 2026, 5:48 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "286",
+                "Percent": "60.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "164",
+                "Percent": "34.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "25",
+                "Percent": "5.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Amador County Results",
+        "Reporting": "100% (47 of 47) precincts reporting",
+        "ReportingTime": "June 19, 2026, 2:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "4,922",
+                "Percent": "31.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "9,964",
+                "Percent": "64.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "614",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Butte County Results",
+        "Reporting": "100% (89 of 89) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:11 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "23,657",
+                "Percent": "40.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "31,295",
+                "Percent": "53.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "3,470",
+                "Percent": "5.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Calaveras County Results",
+        "Reporting": "100% (25 of 25) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "5,391",
+                "Percent": "31.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "10,998",
+                "Percent": "64.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "650",
+                "Percent": "3.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Colusa County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "1,219",
+                "Percent": "29.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "2,720",
+                "Percent": "66.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "174",
+                "Percent": "4.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Contra Costa County Results",
+        "Reporting": "100% (938 of 938) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:13 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "196,519",
+                "Percent": "64.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "91,801",
+                "Percent": "30.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "16,123",
+                "Percent": "5.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Del Norte County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 3:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "2,330",
+                "Percent": "37.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "3,608",
+                "Percent": "57.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "312",
+                "Percent": "5.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - El Dorado County Results",
+        "Reporting": "100% (98 of 98) precincts reporting",
+        "ReportingTime": "July 1, 2026, 4:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "27,618",
+                "Percent": "38.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "42,234",
+                "Percent": "58.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "2,890",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Fresno County Results",
+        "Reporting": "100% (222 of 222) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "76,155",
+                "Percent": "43.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "88,008",
+                "Percent": "50.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "9,572",
+                "Percent": "5.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Glenn County Results",
+        "Reporting": "100% (114 of 114) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "1,522",
+                "Percent": "24.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "4,426",
+                "Percent": "71.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "209",
+                "Percent": "3.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Humboldt County Results",
+        "Reporting": "100% (100 of 100) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "21,972",
+                "Percent": "57.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "12,834",
+                "Percent": "33.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "3,521",
+                "Percent": "9.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Imperial County Results",
+        "Reporting": "100% (263 of 263) precincts reporting",
+        "ReportingTime": "June 29, 2026, 1:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "12,531",
+                "Percent": "52.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "9,879",
+                "Percent": "41.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "1,512",
+                "Percent": "6.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Inyo County Results",
+        "Reporting": "100% (13 of 13) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:05 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "2,408",
+                "Percent": "42.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "2,899",
+                "Percent": "51.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "345",
+                "Percent": "6.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Kern County Results",
+        "Reporting": "100% (819 of 819) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:14 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "52,668",
+                "Percent": "37.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "82,835",
+                "Percent": "58.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "6,609",
+                "Percent": "4.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Kings County Results",
+        "Reporting": "100% (33 of 33) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:32 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "7,268",
+                "Percent": "34.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "13,009",
+                "Percent": "61.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "976",
+                "Percent": "4.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Lake County Results",
+        "Reporting": "100% (37 of 37) precincts reporting",
+        "ReportingTime": "June 30, 2026, 3:56 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "7,210",
+                "Percent": "45.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "7,792",
+                "Percent": "48.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "1,001",
+                "Percent": "6.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Lassen County Results",
+        "Reporting": "100% (52 of 52) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:58 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "1,294",
+                "Percent": "18.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "5,620",
+                "Percent": "78.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "262",
+                "Percent": "3.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Los Angeles County Results",
+        "Reporting": "100% (2,175 of 2,175) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:28 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "1,305,327",
+                "Percent": "64.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "603,360",
+                "Percent": "29.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "119,798",
+                "Percent": "5.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Madera County Results",
+        "Reporting": "100% (54 of 54) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:10 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "10,769",
+                "Percent": "35.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "18,332",
+                "Percent": "60.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "1,330",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Marin County Results",
+        "Reporting": "100% (74 of 74) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "72,679",
+                "Percent": "76.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "18,491",
+                "Percent": "19.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "4,173",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Mariposa County Results",
+        "Reporting": "100% (27 of 27) precincts reporting",
+        "ReportingTime": "June 25, 2026, 10:46 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "2,270",
+                "Percent": "35.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "3,922",
+                "Percent": "60.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "285",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Mendocino County Results",
+        "Reporting": "100% (258 of 258) precincts reporting",
+        "ReportingTime": "June 30, 2026, 12:28 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "14,134",
+                "Percent": "58.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "8,362",
+                "Percent": "34.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "1,887",
+                "Percent": "7.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Merced County Results",
+        "Reporting": "100% (729 of 729) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "19,762",
+                "Percent": "45.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "21,573",
+                "Percent": "49.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "2,523",
+                "Percent": "5.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Modoc County Results",
+        "Reporting": "100% (21 of 21) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "547",
+                "Percent": "20.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "1,985",
+                "Percent": "75.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "92",
+                "Percent": "3.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Mono County Results",
+        "Reporting": "100% (12 of 12) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:59 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "1,862",
+                "Percent": "52.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "1,450",
+                "Percent": "41.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "210",
+                "Percent": "6.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Monterey County Results",
+        "Reporting": "100% (208 of 208) precincts reporting",
+        "ReportingTime": "June 26, 2026, 2:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "48,111",
+                "Percent": "61.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "26,193",
+                "Percent": "33.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "4,585",
+                "Percent": "5.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Napa County Results",
+        "Reporting": "100% (167 of 167) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:15 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "24,059",
+                "Percent": "62.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "12,726",
+                "Percent": "32.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "2,045",
+                "Percent": "5.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Nevada County Results",
+        "Reporting": "100% (43 of 43) precincts reporting",
+        "ReportingTime": "June 25, 2026, 9:01 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "20,561",
+                "Percent": "50.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "18,231",
+                "Percent": "44.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "2,304",
+                "Percent": "5.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Orange County Results",
+        "Reporting": "100% (2,367 of 2,367) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:40 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "356,825",
+                "Percent": "46.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "372,374",
+                "Percent": "48.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "35,417",
+                "Percent": "4.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Placer County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 29, 2026, 3:22 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "60,473",
+                "Percent": "41.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "81,147",
+                "Percent": "55.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "4,925",
+                "Percent": "3.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Plumas County Results",
+        "Reporting": "100% (29 of 29) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:09 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "2,540",
+                "Percent": "35.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "4,276",
+                "Percent": "59.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "358",
+                "Percent": "5.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Riverside County Results",
+        "Reporting": "100% (834 of 834) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "244,520",
+                "Percent": "47.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "247,026",
+                "Percent": "47.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "24,335",
+                "Percent": "4.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Sacramento County Results",
+        "Reporting": "100% (607 of 607) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:38 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "212,713",
+                "Percent": "56.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "139,806",
+                "Percent": "37.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "22,417",
+                "Percent": "6.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Benito County Results",
+        "Reporting": "100% (26 of 26) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "8,363",
+                "Percent": "52.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "6,678",
+                "Percent": "42.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "809",
+                "Percent": "5.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Bernardino County Results",
+        "Reporting": "100% (2,065 of 2,065) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:38 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "175,395",
+                "Percent": "46.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "181,749",
+                "Percent": "48.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "21,834",
+                "Percent": "5.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Diego County Results",
+        "Reporting": "100% (1,976 of 1,976) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "431,448",
+                "Percent": "53.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "338,456",
+                "Percent": "41.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "43,151",
+                "Percent": "5.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Francisco County Results",
+        "Reporting": "100% (514 of 514) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "189,269",
+                "Percent": "78.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "35,004",
+                "Percent": "14.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "17,337",
+                "Percent": "7.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Joaquin County Results",
+        "Reporting": "100% (260 of 260) precincts reporting",
+        "ReportingTime": "June 24, 2026, 6:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "60,900",
+                "Percent": "46.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "62,864",
+                "Percent": "48.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "7,158",
+                "Percent": "5.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Luis Obispo County Results",
+        "Reporting": "100% (102 of 102) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:59 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "47,423",
+                "Percent": "49.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "43,647",
+                "Percent": "45.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "4,315",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - San Mateo County Results",
+        "Reporting": "100% (279 of 279) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:32 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "132,085",
+                "Percent": "70.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "45,915",
+                "Percent": "24.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "9,226",
+                "Percent": "4.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Santa Barbara County Results",
+        "Reporting": "100% (147 of 147) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "59,772",
+                "Percent": "56.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "39,394",
+                "Percent": "37.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "5,994",
+                "Percent": "5.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Santa Clara County Results",
+        "Reporting": "100% (573 of 573) precincts reporting",
+        "ReportingTime": "June 30, 2026, 2:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "257,367",
+                "Percent": "65.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "116,655",
+                "Percent": "29.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "21,438",
+                "Percent": "5.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Santa Cruz County Results",
+        "Reporting": "100% (137 of 137) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:25 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "57,629",
+                "Percent": "71.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "17,324",
+                "Percent": "21.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "6,257",
+                "Percent": "7.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Shasta County Results",
+        "Reporting": "100% (68 of 68) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:00 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "14,679",
+                "Percent": "28.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "35,252",
+                "Percent": "67.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "2,054",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Sierra County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 2:29 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "390",
+                "Percent": "32.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "764",
+                "Percent": "63.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "50",
+                "Percent": "4.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Siskiyou County Results",
+        "Reporting": "100% (56 of 56) precincts reporting",
+        "ReportingTime": "June 26, 2026, 8:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "4,697",
+                "Percent": "34.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "8,121",
+                "Percent": "60.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "702",
+                "Percent": "5.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Solano County Results",
+        "Reporting": "100% (160 of 160) precincts reporting",
+        "ReportingTime": "June 30, 2026, 1:54 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "59,820",
+                "Percent": "57.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "38,892",
+                "Percent": "37.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "5,118",
+                "Percent": "4.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Sonoma County Results",
+        "Reporting": "100% (333 of 333) precincts reporting",
+        "ReportingTime": "June 25, 2026, 1:41 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "112,162",
+                "Percent": "68.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "41,626",
+                "Percent": "25.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "9,666",
+                "Percent": "5.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Stanislaus County Results",
+        "Reporting": "100% (95 of 95) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:51 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "40,265",
+                "Percent": "42.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "51,071",
+                "Percent": "53.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "4,504",
+                "Percent": "4.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Sutter County Results",
+        "Reporting": "100% (24 of 24) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "7,012",
+                "Percent": "31.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "14,169",
+                "Percent": "64.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "952",
+                "Percent": "4.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Tehama County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 26, 2026, 5:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "3,759",
+                "Percent": "23.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "11,577",
+                "Percent": "72.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "591",
+                "Percent": "3.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Trinity County Results",
+        "Reporting": "100% (9 of 9) precincts reporting",
+        "ReportingTime": "June 12, 2026, 3:55 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "1,395",
+                "Percent": "38.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "1,968",
+                "Percent": "54.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "232",
+                "Percent": "6.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Tulare County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:53 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "24,875",
+                "Percent": "36.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "41,122",
+                "Percent": "59.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "2,750",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Tuolumne County Results",
+        "Reporting": "100% (42 of 42) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:57 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "6,877",
+                "Percent": "35.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "11,683",
+                "Percent": "60.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "827",
+                "Percent": "4.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Ventura County Results",
+        "Reporting": "100% (1,433 of 1,433) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:42 a.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "117,490",
+                "Percent": "53.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "92,577",
+                "Percent": "42.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "9,839",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Yolo County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 29, 2026, 4:30 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "36,698",
+                "Percent": "63.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "16,955",
+                "Percent": "29.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "4,226",
+                "Percent": "7.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Attorney General - Yuba County Results",
+        "Reporting": "100% (28 of 28) precincts reporting",
+        "ReportingTime": "July 1, 2026, 3:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Rob Bonta",
+                "Party": "Dem",
+                "Votes": "5,298",
+                "Percent": "33.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Michael E. Gates",
+                "Party": "Rep",
+                "Votes": "10,002",
+                "Percent": "62.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Marjorie Mikels",
+                "Party": "Grn",
+                "Votes": "713",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    }
+]

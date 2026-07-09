@@ -1,0 +1,169 @@
+.california-primary {
+    position: relative;
+    max-width: 860px;
+}
+
+.california-primary svg {
+    transform: rotate(-2deg);
+    display: block;
+    width: min(100%, 810px);
+    height: auto;
+}
+
+.california-primary path {
+    fill: #cbd5e1;
+    stroke: #ffffff;
+    stroke-width: 1.5;
+    transition: fill 0.2s ease, filter 0.2s ease;
+    cursor: pointer;
+}
+
+.california-primary path:hover,
+.california-primary path:focus {
+    fill: #3b82f6;
+    filter: drop-shadow(0 2px 4px rgba(255, 255, 255, 0.24));
+    outline: none;
+}
+
+.county-infobox {
+    position: fixed;
+    z-index: 10;
+    min-width: 150px;
+    max-width: min(220px, calc(100vw - 32px));
+    padding: 0.65rem 0.75rem;
+    border: 1px solid rgb(148 163 184 / 0.35);
+    border-radius: 8px;
+    background: white;
+    box-shadow: 0 14px 28px rgb(15 23 42 / 0.22);
+    color: black;
+    font-size: 0.9rem;
+    line-height: 1.35;
+    opacity: 0;
+    pointer-events: none;
+    transform: translate(-50%, calc(-100% - 14px));
+    transition: opacity 0.12s ease;
+}
+
+.county-infobox.is-visible {
+    opacity: 1;
+}
+
+.county-infobox-title {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.race-header {
+    font-weight: 700;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: #64748b;
+    margin-bottom: 4px;
+    letter-spacing: 0.025em;
+}
+
+.comparison-summary {
+    margin: 8px 0;
+    padding: 6px 8px;
+    background: #f8fafc;
+    border-radius: 4px;
+    border-left: 3px solid #64748b;
+    display: none;
+}
+
+.county-infobox-meta {
+    display: block;
+    margin-top: 0.15rem;
+    color: black;
+    font-size: 0.78rem;
+}
+
+label {
+    font-size: 16px;
+}
+
+select {
+    font-family: inherit;
+    font-size: inherit;  
+    font-weight: inherit;
+    line-height: 1;
+    border-radius: 8px; 
+  
+  /* 2. Spacing: Give the text room to breathe away from the borders */
+  padding: 8px 12px; 
+  
+  /* 3. Border: A clean, subtle outline (adjust color to match your palette) */
+  border: 1px solid #a3a3a3; 
+  
+  /* 4. Typography: Ensure it matches the rest of your site */
+  font-family: inherit;
+  font-size: 16px; /* Note: 16px prevents unwanted auto-zooming on iOS devices */
+  
+  /* 5. Colors: Standardizing the background and text */
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.controls {
+    margin-bottom: 2rem;
+    min-height: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.control-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.selector-unit {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+}
+
+.selector-unit label {
+    font-weight: 600;
+    min-width: 110px;
+}
+
+.selector-unit select {
+    flex: 1;
+    max-width: 250px;
+}
+
+.election-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    font-size: 0.85rem;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #e2e8f0;
+    white-space: nowrap;
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    flex-shrink: 0;
+}
+
+.california-primary, 
+.controls, 
+.county-infobox {
+    /* Forces these elements to use your site's default font */
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}

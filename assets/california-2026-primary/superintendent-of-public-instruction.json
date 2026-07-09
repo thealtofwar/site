@@ -1,0 +1,4545 @@
+[
+    {
+        "raceTitle": "Superintendent of Public Instruction - Statewide Results",
+        "Reporting": "100% (19,788 of 19,788) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "1,558,296",
+                "Percent": "20.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "675,967",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "738,235",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "578,171",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "426,104",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "167,723",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "646,301",
+                "Percent": "8.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "522,757",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "624,266",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,737,733",
+                "Percent": "22.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Alameda County Results",
+        "Reporting": "100% (546 of 546) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:21 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "91,082",
+                "Percent": "26.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "27,279",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "41,780",
+                "Percent": "12.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "23,237",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "23,616",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "5,427",
+                "Percent": "1.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "36,219",
+                "Percent": "10.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "19,053",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "25,595",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "45,328",
+                "Percent": "13.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Alpine County Results",
+        "Reporting": "100% (5 of 5) precincts reporting",
+        "ReportingTime": "June 10, 2026, 5:48 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "88",
+                "Percent": "22.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "26",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "22",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "21",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "25",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "21",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "45",
+                "Percent": "11.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "22",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "47",
+                "Percent": "12.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "68",
+                "Percent": "17.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Amador County Results",
+        "Reporting": "100% (47 of 47) precincts reporting",
+        "ReportingTime": "June 19, 2026, 2:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "1,854",
+                "Percent": "14.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "897",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "516",
+                "Percent": "4.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "831",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "983",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "600",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "916",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,099",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "674",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "4,232",
+                "Percent": "33.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Butte County Results",
+        "Reporting": "100% (89 of 89) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:11 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "8,501",
+                "Percent": "17.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "4,103",
+                "Percent": "8.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "3,013",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "5,001",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "3,500",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,325",
+                "Percent": "2.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "3,429",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "2,853",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "3,218",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "14,406",
+                "Percent": "29.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Calaveras County Results",
+        "Reporting": "100% (25 of 25) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "1,941",
+                "Percent": "14.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,734",
+                "Percent": "12.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "471",
+                "Percent": "3.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "796",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "774",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "391",
+                "Percent": "2.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "866",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,542",
+                "Percent": "11.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "728",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "4,592",
+                "Percent": "33.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Colusa County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "552",
+                "Percent": "16.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "276",
+                "Percent": "8.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "137",
+                "Percent": "4.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "201",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "269",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "65",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "145",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "299",
+                "Percent": "8.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "221",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,184",
+                "Percent": "35.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Contra Costa County Results",
+        "Reporting": "100% (938 of 938) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:13 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "72,575",
+                "Percent": "27.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "26,418",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "24,509",
+                "Percent": "9.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "14,248",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "17,441",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "6,379",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "22,641",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "16,134",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "24,276",
+                "Percent": "9.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "42,772",
+                "Percent": "16.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Del Norte County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 3:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "858",
+                "Percent": "15.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "368",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "313",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "442",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "414",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "183",
+                "Percent": "3.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "436",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "300",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "321",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,815",
+                "Percent": "33.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - El Dorado County Results",
+        "Reporting": "100% (98 of 98) precincts reporting",
+        "ReportingTime": "July 1, 2026, 4:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "9,752",
+                "Percent": "16.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "4,767",
+                "Percent": "8.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "3,454",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "2,948",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "3,369",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "2,285",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "3,969",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "4,284",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "4,089",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "18,717",
+                "Percent": "32.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Fresno County Results",
+        "Reporting": "100% (222 of 222) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "24,410",
+                "Percent": "15.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "24,384",
+                "Percent": "15.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "11,191",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "12,123",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "8,680",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "4,476",
+                "Percent": "2.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "9,485",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "9,447",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "11,713",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "37,336",
+                "Percent": "24.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Glenn County Results",
+        "Reporting": "100% (114 of 114) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "871",
+                "Percent": "17.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "464",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "201",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "385",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "384",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "133",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "237",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "464",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "293",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,702",
+                "Percent": "33.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Humboldt County Results",
+        "Reporting": "100% (100 of 100) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "7,007",
+                "Percent": "20.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "2,705",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "3,528",
+                "Percent": "10.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "2,994",
+                "Percent": "8.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "2,213",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "805",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "3,541",
+                "Percent": "10.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,835",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "2,724",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "6,248",
+                "Percent": "18.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Imperial County Results",
+        "Reporting": "100% (263 of 263) precincts reporting",
+        "ReportingTime": "June 29, 2026, 1:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "5,051",
+                "Percent": "22.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "2,879",
+                "Percent": "12.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "2,342",
+                "Percent": "10.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "2,402",
+                "Percent": "10.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,080",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "294",
+                "Percent": "1.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "911",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,139",
+                "Percent": "5.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "2,795",
+                "Percent": "12.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "3,842",
+                "Percent": "16.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Inyo County Results",
+        "Reporting": "100% (13 of 13) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:05 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "901",
+                "Percent": "19.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "645",
+                "Percent": "13.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "287",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "270",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "267",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "77",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "313",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "329",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "274",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,263",
+                "Percent": "27.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Kern County Results",
+        "Reporting": "100% (819 of 819) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:14 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "18,614",
+                "Percent": "14.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "10,937",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "8,008",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "9,597",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "7,860",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "2,944",
+                "Percent": "2.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "7,003",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "7,010",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "12,241",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "43,086",
+                "Percent": "33.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Kings County Results",
+        "Reporting": "100% (33 of 33) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:32 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "2,797",
+                "Percent": "14.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "2,098",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "1,193",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "2,043",
+                "Percent": "10.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,489",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "379",
+                "Percent": "2.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "925",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,229",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,494",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "5,409",
+                "Percent": "28.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Lake County Results",
+        "Reporting": "100% (37 of 37) precincts reporting",
+        "ReportingTime": "June 30, 2026, 3:56 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "2,539",
+                "Percent": "18.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,516",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "728",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,085",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,227",
+                "Percent": "9.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "438",
+                "Percent": "3.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "773",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "975",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,283",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "2,851",
+                "Percent": "21.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Lassen County Results",
+        "Reporting": "100% (52 of 52) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:58 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "750",
+                "Percent": "12.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "442",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "266",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "373",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "435",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "305",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "328",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "528",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "243",
+                "Percent": "4.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "2,316",
+                "Percent": "38.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Los Angeles County Results",
+        "Reporting": "100% (2,175 of 2,175) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:28 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "301,228",
+                "Percent": "16.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "136,392",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "268,401",
+                "Percent": "14.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "187,081",
+                "Percent": "10.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "84,762",
+                "Percent": "4.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "31,399",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "173,924",
+                "Percent": "9.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "96,384",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "187,358",
+                "Percent": "10.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "333,463",
+                "Percent": "18.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Madera County Results",
+        "Reporting": "100% (54 of 54) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:10 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "4,636",
+                "Percent": "17.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "3,819",
+                "Percent": "14.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "1,191",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,827",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,391",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "594",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "1,341",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "2,158",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,475",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "8,843",
+                "Percent": "32.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Marin County Results",
+        "Reporting": "100% (74 of 74) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "24,553",
+                "Percent": "30.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "5,214",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "6,870",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "4,080",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "3,798",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,548",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "11,285",
+                "Percent": "14.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "5,034",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "6,993",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "10,012",
+                "Percent": "12.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Mariposa County Results",
+        "Reporting": "100% (27 of 27) precincts reporting",
+        "ReportingTime": "June 25, 2026, 10:46 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "895",
+                "Percent": "16.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "617",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "258",
+                "Percent": "4.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "324",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "319",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "129",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "331",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "426",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "258",
+                "Percent": "4.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,893",
+                "Percent": "34.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Mendocino County Results",
+        "Reporting": "100% (258 of 258) precincts reporting",
+        "ReportingTime": "June 30, 2026, 12:28 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "4,570",
+                "Percent": "22.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,930",
+                "Percent": "9.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "2,268",
+                "Percent": "11.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,498",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,446",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "589",
+                "Percent": "2.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "1,864",
+                "Percent": "9.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,103",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,529",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "3,465",
+                "Percent": "17.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Merced County Results",
+        "Reporting": "100% (729 of 729) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "9,468",
+                "Percent": "23.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "4,621",
+                "Percent": "11.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "2,211",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "4,035",
+                "Percent": "10.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "2,363",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "713",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "2,133",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "3,317",
+                "Percent": "8.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "2,369",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "8,927",
+                "Percent": "22.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Modoc County Results",
+        "Reporting": "100% (21 of 21) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "347",
+                "Percent": "16.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "195",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "103",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "115",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "148",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "86",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "113",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "207",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "116",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "732",
+                "Percent": "33.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Mono County Results",
+        "Reporting": "100% (12 of 12) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:59 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "628",
+                "Percent": "21.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "306",
+                "Percent": "10.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "182",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "160",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "160",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "68",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "302",
+                "Percent": "10.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "226",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "174",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "668",
+                "Percent": "23.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Monterey County Results",
+        "Reporting": "100% (208 of 208) precincts reporting",
+        "ReportingTime": "June 26, 2026, 2:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "14,856",
+                "Percent": "21.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "7,257",
+                "Percent": "10.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "4,042",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "5,333",
+                "Percent": "7.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "4,222",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,496",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "6,927",
+                "Percent": "10.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "5,396",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "5,262",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "14,739",
+                "Percent": "21.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Napa County Results",
+        "Reporting": "100% (167 of 167) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:15 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "8,240",
+                "Percent": "25.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "2,640",
+                "Percent": "8.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "2,459",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,913",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "2,601",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "626",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "2,731",
+                "Percent": "8.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "2,138",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "3,043",
+                "Percent": "9.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "5,965",
+                "Percent": "18.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Nevada County Results",
+        "Reporting": "100% (43 of 43) precincts reporting",
+        "ReportingTime": "June 25, 2026, 9:01 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "6,465",
+                "Percent": "18.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "2,321",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "2,973",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,840",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,663",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,000",
+                "Percent": "2.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "2,665",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,815",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "2,008",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "11,404",
+                "Percent": "33.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Orange County Results",
+        "Reporting": "100% (2,367 of 2,367) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:40 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "106,660",
+                "Percent": "16.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "59,660",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "50,004",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "33,454",
+                "Percent": "5.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "30,030",
+                "Percent": "4.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "16,381",
+                "Percent": "2.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "51,959",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "66,898",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "42,898",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "205,276",
+                "Percent": "31.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Placer County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 29, 2026, 3:22 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "23,098",
+                "Percent": "18.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "8,826",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "8,030",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "4,655",
+                "Percent": "3.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "5,879",
+                "Percent": "4.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "3,009",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "8,448",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "8,143",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "10,614",
+                "Percent": "8.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "45,237",
+                "Percent": "35.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Plumas County Results",
+        "Reporting": "100% (29 of 29) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:09 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "1,007",
+                "Percent": "17.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "561",
+                "Percent": "9.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "300",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "428",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "366",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "254",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "413",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "496",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "310",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "1,602",
+                "Percent": "27.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Riverside County Results",
+        "Reporting": "100% (834 of 834) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "88,356",
+                "Percent": "19.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "44,075",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "36,649",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "36,025",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "25,883",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "10,827",
+                "Percent": "2.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "29,427",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "28,674",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "36,516",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "125,015",
+                "Percent": "27.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Sacramento County Results",
+        "Reporting": "100% (607 of 607) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:38 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "68,803",
+                "Percent": "21.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "24,973",
+                "Percent": "7.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "30,193",
+                "Percent": "9.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "22,191",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "24,762",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "7,099",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "29,359",
+                "Percent": "9.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "23,717",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "24,334",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "68,412",
+                "Percent": "21.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Benito County Results",
+        "Reporting": "100% (26 of 26) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "2,806",
+                "Percent": "19.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,699",
+                "Percent": "12.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "610",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,246",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "713",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "299",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "1,208",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,270",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,053",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "3,203",
+                "Percent": "22.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Bernardino County Results",
+        "Reporting": "100% (2,065 of 2,065) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:38 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "57,898",
+                "Percent": "17.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "31,867",
+                "Percent": "9.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "25,941",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "29,481",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "20,236",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "8,931",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "17,630",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "21,927",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "34,100",
+                "Percent": "10.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "91,505",
+                "Percent": "27.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Diego County Results",
+        "Reporting": "100% (1,976 of 1,976) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "178,057",
+                "Percent": "25.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "60,246",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "60,754",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "33,320",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "31,691",
+                "Percent": "4.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "13,525",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "47,726",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "34,637",
+                "Percent": "5.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "40,667",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "197,080",
+                "Percent": "28.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Francisco County Results",
+        "Reporting": "100% (514 of 514) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "73,164",
+                "Percent": "33.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "12,608",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "15,760",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "15,342",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "10,343",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "3,085",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "16,171",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "42,326",
+                "Percent": "19.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "9,573",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "17,407",
+                "Percent": "8.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Joaquin County Results",
+        "Reporting": "100% (260 of 260) precincts reporting",
+        "ReportingTime": "June 24, 2026, 6:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "18,537",
+                "Percent": "16.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "11,447",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "6,595",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "10,849",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "7,832",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "2,663",
+                "Percent": "2.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "7,569",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "11,695",
+                "Percent": "10.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "9,413",
+                "Percent": "8.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "26,980",
+                "Percent": "23.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Luis Obispo County Results",
+        "Reporting": "100% (102 of 102) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:59 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "15,888",
+                "Percent": "20.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "6,388",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "4,702",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "4,415",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "3,809",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "2,036",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "6,969",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "4,160",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "4,549",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "26,275",
+                "Percent": "33.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - San Mateo County Results",
+        "Reporting": "100% (279 of 279) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:32 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "40,938",
+                "Percent": "25.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "14,763",
+                "Percent": "9.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "11,957",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "11,322",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "9,800",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "5,878",
+                "Percent": "3.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "18,783",
+                "Percent": "11.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "10,242",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "14,693",
+                "Percent": "9.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "22,333",
+                "Percent": "13.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Santa Barbara County Results",
+        "Reporting": "100% (147 of 147) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "22,024",
+                "Percent": "24.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "9,899",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "6,247",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "4,801",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "3,558",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,521",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "8,936",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "5,677",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "5,251",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "22,183",
+                "Percent": "24.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Santa Clara County Results",
+        "Reporting": "100% (573 of 573) precincts reporting",
+        "ReportingTime": "June 30, 2026, 2:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "78,541",
+                "Percent": "23.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "33,072",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "28,533",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "20,668",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "23,185",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "7,433",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "36,772",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "25,194",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "26,913",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "55,312",
+                "Percent": "16.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Santa Cruz County Results",
+        "Reporting": "100% (137 of 137) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:25 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "14,563",
+                "Percent": "21.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "8,328",
+                "Percent": "12.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "6,551",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "5,011",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "4,180",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,322",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "8,775",
+                "Percent": "12.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "4,038",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "5,721",
+                "Percent": "8.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "9,969",
+                "Percent": "14.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Shasta County Results",
+        "Reporting": "100% (68 of 68) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:00 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "6,296",
+                "Percent": "14.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "3,051",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "1,876",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "2,430",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "2,138",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,901",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "2,740",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "2,660",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "2,395",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "18,435",
+                "Percent": "42.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Sierra County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 2:29 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "173",
+                "Percent": "17.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "81",
+                "Percent": "8.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "46",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "68",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "50",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "56",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "68",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "58",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "50",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "340",
+                "Percent": "34.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Siskiyou County Results",
+        "Reporting": "100% (56 of 56) precincts reporting",
+        "ReportingTime": "June 26, 2026, 8:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "2,153",
+                "Percent": "18.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "980",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "661",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "701",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "691",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "490",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "836",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "914",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "681",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "3,342",
+                "Percent": "29.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Solano County Results",
+        "Reporting": "100% (160 of 160) precincts reporting",
+        "ReportingTime": "June 30, 2026, 1:54 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "16,861",
+                "Percent": "18.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "8,882",
+                "Percent": "9.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "7,378",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "8,464",
+                "Percent": "9.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "6,722",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "3,685",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "7,880",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "5,685",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "8,549",
+                "Percent": "9.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "17,187",
+                "Percent": "18.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Sonoma County Results",
+        "Reporting": "100% (333 of 333) precincts reporting",
+        "ReportingTime": "June 25, 2026, 1:41 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "33,362",
+                "Percent": "24.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "10,621",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "12,909",
+                "Percent": "9.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "10,504",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "10,331",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "2,555",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "14,815",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "7,469",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "12,078",
+                "Percent": "8.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "20,571",
+                "Percent": "15.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Stanislaus County Results",
+        "Reporting": "100% (95 of 95) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:51 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "14,106",
+                "Percent": "17.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "6,534",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "4,319",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "8,550",
+                "Percent": "10.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "4,676",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,923",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "5,563",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "6,941",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "6,959",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "21,722",
+                "Percent": "26.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Sutter County Results",
+        "Reporting": "100% (24 of 24) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "3,057",
+                "Percent": "15.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,673",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "858",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,584",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,250",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "380",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "942",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,173",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,145",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "7,642",
+                "Percent": "38.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Tehama County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 26, 2026, 5:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "1,928",
+                "Percent": "14.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,209",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "583",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,172",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,026",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "476",
+                "Percent": "3.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "622",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,213",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "696",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "4,532",
+                "Percent": "33.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Trinity County Results",
+        "Reporting": "100% (9 of 9) precincts reporting",
+        "ReportingTime": "June 12, 2026, 3:55 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "525",
+                "Percent": "17.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "305",
+                "Percent": "10.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "182",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "177",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "213",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "133",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "247",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "252",
+                "Percent": "8.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "238",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "789",
+                "Percent": "25.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Tulare County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:53 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "9,797",
+                "Percent": "15.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "5,638",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "3,367",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "6,431",
+                "Percent": "10.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "3,745",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "1,273",
+                "Percent": "2.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "3,578",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "4,048",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "4,470",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "20,077",
+                "Percent": "32.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Tuolumne County Results",
+        "Reporting": "100% (42 of 42) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:57 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "2,159",
+                "Percent": "13.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "2,190",
+                "Percent": "13.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "913",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "857",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "755",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "383",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "901",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "1,221",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "1,000",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "5,909",
+                "Percent": "36.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Ventura County Results",
+        "Reporting": "100% (1,433 of 1,433) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:42 a.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "38,218",
+                "Percent": "20.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "23,920",
+                "Percent": "12.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "14,208",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "11,620",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "10,068",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "4,194",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "15,585",
+                "Percent": "8.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "11,242",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "11,359",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "49,742",
+                "Percent": "26.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Yolo County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 29, 2026, 4:30 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "11,511",
+                "Percent": "23.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "4,178",
+                "Percent": "8.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "4,467",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "3,924",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "4,077",
+                "Percent": "8.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "892",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "5,883",
+                "Percent": "11.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "3,046",
+                "Percent": "6.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "4,356",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "7,457",
+                "Percent": "15.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Superintendent of Public Instruction - Yuba County Results",
+        "Reporting": "100% (28 of 28) precincts reporting",
+        "ReportingTime": "July 1, 2026, 3:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Richard Barrera",
+                "Party": "Non",
+                "Votes": "1,781",
+                "Percent": "12.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Wendy Castaneda Leal",
+                "Party": "Non",
+                "Votes": "1,043",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Nichelle M. Henderson",
+                "Party": "Non",
+                "Votes": "725",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Frank Lara",
+                "Party": "Non",
+                "Votes": "1,278",
+                "Percent": "9.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Ainye Long",
+                "Party": "Non",
+                "Votes": "1,196",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Gus Mattammal",
+                "Party": "Non",
+                "Votes": "344",
+                "Percent": "2.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Al Muratsuchi",
+                "Party": "Non",
+                "Votes": "698",
+                "Percent": "5.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Josh Newman",
+                "Party": "Non",
+                "Votes": "995",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Anthony Rendon",
+                "Party": "Non",
+                "Votes": "871",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sonja Shaw",
+                "Party": "Non",
+                "Votes": "4,921",
+                "Percent": "35.5",
+                "incumbent": false
+            }
+        ]
+    }
+]

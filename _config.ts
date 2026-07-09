@@ -21,6 +21,24 @@ site.add("/assets");
 site.use(lightningCSS());
 site.use(minifyHTML());
 
+site.process([".json"], (pages) => {
+    for (const page of pages) {
+        try {
+            let json;
+            if (typeof page.content == "string") {
+                json = JSON.parse(page.content);
+            } else {
+                const decoder = new TextDecoder("utf-8");
+                json = JSON.parse(decoder.decode(page.content));
+            }
+            
+            page.content = JSON.stringify(json);
+        } catch (err) {
+            console.error(`Skipping invalid JSON file: ${page.src.path}`, err);
+        }
+    }
+});
+
 const data = parse(await Deno.readTextFile("_data.yml")) as { name: string, email: string };
 
 const replacements = {

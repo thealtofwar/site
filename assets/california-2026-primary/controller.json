@@ -1,0 +1,1654 @@
+[
+    {
+        "raceTitle": "Controller - Statewide Results",
+        "Reporting": "100% (19,788 of 19,788) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "4,909,611",
+                "Percent": "56.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "3,244,246",
+                "Percent": "37.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "489,662",
+                "Percent": "5.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Alameda County Results",
+        "Reporting": "100% (546 of 546) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:21 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "272,859",
+                "Percent": "72.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "71,973",
+                "Percent": "19.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "29,281",
+                "Percent": "7.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Alpine County Results",
+        "Reporting": "100% (5 of 5) precincts reporting",
+        "ReportingTime": "June 10, 2026, 5:48 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "289",
+                "Percent": "61.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "164",
+                "Percent": "34.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "21",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Amador County Results",
+        "Reporting": "100% (47 of 47) precincts reporting",
+        "ReportingTime": "June 19, 2026, 2:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "5,086",
+                "Percent": "33.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "9,537",
+                "Percent": "63.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "481",
+                "Percent": "3.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Butte County Results",
+        "Reporting": "100% (89 of 89) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:11 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "25,072",
+                "Percent": "42.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "30,673",
+                "Percent": "52.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "2,657",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Calaveras County Results",
+        "Reporting": "100% (25 of 25) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "5,526",
+                "Percent": "33.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "10,559",
+                "Percent": "63.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "501",
+                "Percent": "3.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Colusa County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "1,294",
+                "Percent": "31.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "2,640",
+                "Percent": "64.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "134",
+                "Percent": "3.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Contra Costa County Results",
+        "Reporting": "100% (938 of 938) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:13 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "192,991",
+                "Percent": "65.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "87,575",
+                "Percent": "29.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "13,597",
+                "Percent": "4.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Del Norte County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 3:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "2,487",
+                "Percent": "40.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "3,482",
+                "Percent": "56.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "247",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - El Dorado County Results",
+        "Reporting": "100% (98 of 98) precincts reporting",
+        "ReportingTime": "July 1, 2026, 4:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "28,603",
+                "Percent": "39.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "41,514",
+                "Percent": "57.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "1,823",
+                "Percent": "2.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Fresno County Results",
+        "Reporting": "100% (222 of 222) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "76,684",
+                "Percent": "45.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "84,058",
+                "Percent": "49.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "8,299",
+                "Percent": "4.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Glenn County Results",
+        "Reporting": "100% (114 of 114) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "1,588",
+                "Percent": "25.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "4,332",
+                "Percent": "70.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "244",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Humboldt County Results",
+        "Reporting": "100% (100 of 100) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "22,938",
+                "Percent": "60.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "12,478",
+                "Percent": "32.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "2,620",
+                "Percent": "6.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Imperial County Results",
+        "Reporting": "100% (263 of 263) precincts reporting",
+        "ReportingTime": "June 29, 2026, 1:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "12,996",
+                "Percent": "55.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "9,203",
+                "Percent": "39.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "1,354",
+                "Percent": "5.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Inyo County Results",
+        "Reporting": "100% (13 of 13) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:05 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "2,528",
+                "Percent": "45.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "2,814",
+                "Percent": "50.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "249",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Kern County Results",
+        "Reporting": "100% (819 of 819) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:14 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "53,852",
+                "Percent": "38.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "80,377",
+                "Percent": "57.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "6,658",
+                "Percent": "4.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Kings County Results",
+        "Reporting": "100% (33 of 33) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:32 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "7,665",
+                "Percent": "36.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "12,568",
+                "Percent": "59.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "932",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Lake County Results",
+        "Reporting": "100% (37 of 37) precincts reporting",
+        "ReportingTime": "June 30, 2026, 3:56 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "7,563",
+                "Percent": "47.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "7,520",
+                "Percent": "47.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "709",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Lassen County Results",
+        "Reporting": "100% (52 of 52) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:58 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "1,450",
+                "Percent": "20.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "5,317",
+                "Percent": "76.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "201",
+                "Percent": "2.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Los Angeles County Results",
+        "Reporting": "100% (2,175 of 2,175) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:28 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "1,226,698",
+                "Percent": "62.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "582,493",
+                "Percent": "29.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "169,675",
+                "Percent": "8.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Madera County Results",
+        "Reporting": "100% (54 of 54) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:10 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "11,133",
+                "Percent": "37.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "17,758",
+                "Percent": "59.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "1,147",
+                "Percent": "3.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Marin County Results",
+        "Reporting": "100% (74 of 74) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "70,148",
+                "Percent": "76.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "18,316",
+                "Percent": "20.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "3,232",
+                "Percent": "3.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Mariposa County Results",
+        "Reporting": "100% (27 of 27) precincts reporting",
+        "ReportingTime": "June 25, 2026, 10:46 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "2,364",
+                "Percent": "36.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "3,845",
+                "Percent": "59.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "226",
+                "Percent": "3.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Mendocino County Results",
+        "Reporting": "100% (258 of 258) precincts reporting",
+        "ReportingTime": "June 30, 2026, 12:28 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "14,813",
+                "Percent": "63.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "7,750",
+                "Percent": "32.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "968",
+                "Percent": "4.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Merced County Results",
+        "Reporting": "100% (729 of 729) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "20,247",
+                "Percent": "46.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "20,817",
+                "Percent": "47.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "2,526",
+                "Percent": "5.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Modoc County Results",
+        "Reporting": "100% (21 of 21) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "607",
+                "Percent": "23.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "1,901",
+                "Percent": "73.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "95",
+                "Percent": "3.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Mono County Results",
+        "Reporting": "100% (12 of 12) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:59 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "1,920",
+                "Percent": "55.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "1,432",
+                "Percent": "41.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "134",
+                "Percent": "3.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Monterey County Results",
+        "Reporting": "100% (208 of 208) precincts reporting",
+        "ReportingTime": "June 26, 2026, 2:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "47,814",
+                "Percent": "62.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "24,851",
+                "Percent": "32.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "3,721",
+                "Percent": "4.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Napa County Results",
+        "Reporting": "100% (167 of 167) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:15 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "24,833",
+                "Percent": "64.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "12,680",
+                "Percent": "32.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "1,269",
+                "Percent": "3.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Nevada County Results",
+        "Reporting": "100% (43 of 43) precincts reporting",
+        "ReportingTime": "June 25, 2026, 9:01 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "20,953",
+                "Percent": "51.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "18,020",
+                "Percent": "44.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "1,398",
+                "Percent": "3.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Orange County Results",
+        "Reporting": "100% (2,367 of 2,367) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:40 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "357,085",
+                "Percent": "47.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "364,039",
+                "Percent": "48.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "30,264",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Placer County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 29, 2026, 3:22 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "61,844",
+                "Percent": "42.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "80,591",
+                "Percent": "55.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "3,690",
+                "Percent": "2.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Plumas County Results",
+        "Reporting": "100% (29 of 29) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:09 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "2,688",
+                "Percent": "37.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "4,197",
+                "Percent": "58.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "278",
+                "Percent": "3.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Riverside County Results",
+        "Reporting": "100% (834 of 834) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "250,688",
+                "Percent": "48.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "243,423",
+                "Percent": "47.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "22,615",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Sacramento County Results",
+        "Reporting": "100% (607 of 607) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:38 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "212,399",
+                "Percent": "57.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "137,850",
+                "Percent": "37.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "18,752",
+                "Percent": "5.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Benito County Results",
+        "Reporting": "100% (26 of 26) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "8,483",
+                "Percent": "55.4",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "6,234",
+                "Percent": "40.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "586",
+                "Percent": "3.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Bernardino County Results",
+        "Reporting": "100% (2,065 of 2,065) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:38 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "178,198",
+                "Percent": "47.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "174,873",
+                "Percent": "47.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "19,338",
+                "Percent": "5.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Diego County Results",
+        "Reporting": "100% (1,976 of 1,976) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "444,730",
+                "Percent": "55.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "333,638",
+                "Percent": "41.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "28,607",
+                "Percent": "3.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Francisco County Results",
+        "Reporting": "100% (514 of 514) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "175,509",
+                "Percent": "72.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "33,461",
+                "Percent": "13.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "32,710",
+                "Percent": "13.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Joaquin County Results",
+        "Reporting": "100% (260 of 260) precincts reporting",
+        "ReportingTime": "June 24, 2026, 6:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "61,693",
+                "Percent": "48.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "59,588",
+                "Percent": "46.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "5,761",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Luis Obispo County Results",
+        "Reporting": "100% (102 of 102) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:59 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "48,521",
+                "Percent": "51.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "43,079",
+                "Percent": "45.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "3,199",
+                "Percent": "3.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - San Mateo County Results",
+        "Reporting": "100% (279 of 279) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:32 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "130,255",
+                "Percent": "71.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "45,175",
+                "Percent": "24.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "8,021",
+                "Percent": "4.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Santa Barbara County Results",
+        "Reporting": "100% (147 of 147) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "61,796",
+                "Percent": "58.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "38,974",
+                "Percent": "37.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "4,088",
+                "Percent": "3.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Santa Clara County Results",
+        "Reporting": "100% (573 of 573) precincts reporting",
+        "ReportingTime": "June 30, 2026, 2:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "260,373",
+                "Percent": "66.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "114,260",
+                "Percent": "29.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "17,013",
+                "Percent": "4.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Santa Cruz County Results",
+        "Reporting": "100% (137 of 137) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:25 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "57,112",
+                "Percent": "73.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "16,378",
+                "Percent": "21.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "4,392",
+                "Percent": "5.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Shasta County Results",
+        "Reporting": "100% (68 of 68) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:00 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "15,597",
+                "Percent": "30.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "34,572",
+                "Percent": "66.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "1,528",
+                "Percent": "3.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Sierra County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 2:29 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "401",
+                "Percent": "34.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "742",
+                "Percent": "63.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "31",
+                "Percent": "2.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Siskiyou County Results",
+        "Reporting": "100% (56 of 56) precincts reporting",
+        "ReportingTime": "June 26, 2026, 8:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "5,029",
+                "Percent": "37.2",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "7,997",
+                "Percent": "59.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "495",
+                "Percent": "3.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Solano County Results",
+        "Reporting": "100% (160 of 160) precincts reporting",
+        "ReportingTime": "June 30, 2026, 1:54 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "59,090",
+                "Percent": "59.7",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "35,636",
+                "Percent": "36.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "4,195",
+                "Percent": "4.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Sonoma County Results",
+        "Reporting": "100% (333 of 333) precincts reporting",
+        "ReportingTime": "June 25, 2026, 1:41 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "110,132",
+                "Percent": "69.6",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "39,708",
+                "Percent": "25.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "8,412",
+                "Percent": "5.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Stanislaus County Results",
+        "Reporting": "100% (95 of 95) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:51 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "40,372",
+                "Percent": "42.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "49,795",
+                "Percent": "53.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "3,856",
+                "Percent": "4.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Sutter County Results",
+        "Reporting": "100% (24 of 24) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "7,371",
+                "Percent": "33.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "13,717",
+                "Percent": "62.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "891",
+                "Percent": "4.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Tehama County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 26, 2026, 5:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "4,082",
+                "Percent": "25.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "11,416",
+                "Percent": "71.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "525",
+                "Percent": "3.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Trinity County Results",
+        "Reporting": "100% (9 of 9) precincts reporting",
+        "ReportingTime": "June 12, 2026, 3:55 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "1,433",
+                "Percent": "42.1",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "1,813",
+                "Percent": "53.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "154",
+                "Percent": "4.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Tulare County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:53 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "25,255",
+                "Percent": "36.9",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "40,311",
+                "Percent": "58.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "2,890",
+                "Percent": "4.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Tuolumne County Results",
+        "Reporting": "100% (42 of 42) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:57 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "7,247",
+                "Percent": "37.5",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "11,448",
+                "Percent": "59.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "628",
+                "Percent": "3.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Ventura County Results",
+        "Reporting": "100% (1,433 of 1,433) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:42 a.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "117,136",
+                "Percent": "54.8",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "88,373",
+                "Percent": "41.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "8,339",
+                "Percent": "3.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Yolo County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 29, 2026, 4:30 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "36,496",
+                "Percent": "65.0",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "16,306",
+                "Percent": "29.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "3,313",
+                "Percent": "5.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Controller - Yuba County Results",
+        "Reporting": "100% (28 of 28) precincts reporting",
+        "ReportingTime": "July 1, 2026, 3:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Malia M. Cohen",
+                "Party": "Dem",
+                "Votes": "5,595",
+                "Percent": "34.3",
+                "incumbent": true
+            },
+            {
+                "Name": "Herb W Morgan",
+                "Party": "Rep",
+                "Votes": "10,005",
+                "Percent": "61.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Meghann Adams",
+                "Party": "P&F",
+                "Votes": "692",
+                "Percent": "4.2",
+                "incumbent": false
+            }
+        ]
+    }
+]

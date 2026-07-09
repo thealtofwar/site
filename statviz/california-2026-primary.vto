@@ -1,0 +1,585 @@
+---
+layout: layout.vto
+description: California's 2026 primary comparison, visualized.
+tags:
+    - statviz
+    - california
+    - elections
+---
+
+<style>
+
+{{ include "assets/california-2026-primary/style.css" }}
+
+</style>
+
+<h1>
+
+California's 2026 primary comparison
+
+</h1>
+<div class="controls">
+    <div class="control-row">
+        <div class="selector-unit">
+            <label for="race-a">Race A: </label>
+            <select id="race-a" class="race-selector">
+                <option value="governor">Governor</option>
+                <option value="lieutenantGovernor">Lieutenant Governor</option>
+                <option value="attorneyGeneral">Attorney General</option>
+                <option value="secretaryOfState">Secretary of State</option>
+                <option value="controller">Controller</option>
+                <option value="treasurer">Treasurer</option>
+                <option value="insuranceCommissioner">Insurance Commissioner</option>
+                <option value="superintendent">Superintendent of Public Instruction</option>
+            </select>
+            <select id="cand-a" class="cand-selector">
+                <option value="all">Leaders</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="control-row">
+        <div class="selector-unit">
+            <label for="race-b">Comparison B: </label>
+            <select id="race-b" class="race-selector">
+                <option value="none">None (Single View)</option>
+                <option value="governor">Governor</option>
+                <option value="lieutenantGovernor">Lieutenant Governor</option>
+                <option value="attorneyGeneral">Attorney General</option>
+                <option value="secretaryOfState">Secretary of State</option>
+                <option value="controller">Controller</option>
+                <option value="treasurer">Treasurer</option>
+                <option value="insuranceCommissioner">Insurance Commissioner</option>
+                <option value="superintendent">Superintendent of Public Instruction</option>
+            </select>
+            <select id="cand-b" class="cand-selector" disabled>
+                <option value="none">-</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="election-legend" data-election-legend></div>
+</div>
+
+
+<div class="california-primary" data-california-primary>
+    {{ include "assets/california.svg"}}
+    <div class="county-infobox" data-county-infobox role="status" aria-live="polite" aria-hidden="true">
+        <span class="county-infobox-title" data-county-name></span>
+        <div class="comparison-summary" id="comp-summary"></div>
+        
+        <div id="race-a-box">
+            <div class="race-header" id="race-a-name">Race A</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Party</th>
+                        <th>Votes</th>
+                        <th>%</th>
+                    </tr>
+                </thead>
+                <tbody id="race-a-body"></tbody>
+            </table>
+        </div>
+
+        <div id="race-b-box" style="display: none; margin-top: 12px; border-top: 1px solid #eee; padding-top: 8px;">
+            <div class="race-header" id="race-b-name">Race B</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Party</th>
+                        <th>Votes</th>
+                        <th>%</th>
+                    </tr>
+                </thead>
+                <tbody id="race-b-body"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    (async () => {
+        const map = document.querySelector("[data-california-primary]");
+        const infobox = map?.querySelector("[data-county-infobox]");
+        const countyName = map?.querySelector("[data-county-name]");
+        const comparisonSummary = document.querySelector("#comp-summary");
+        
+        const raceANameElem = document.querySelector("#race-a-name");
+        const raceBNameElem = document.querySelector("#race-b-name");
+        const raceABody = document.querySelector("#race-a-body");
+        const raceBBody = document.querySelector("#race-b-body");
+        const raceBBox = document.querySelector("#race-b-box");
+
+        const counties = map?.querySelectorAll("svg path[id]") ?? [];
+        
+        const raceASelect = document.querySelector("#race-a");
+        const candASelect = document.querySelector("#cand-a");
+        const raceBSelect = document.querySelector("#race-b");
+        const candBSelect = document.querySelector("#cand-b");
+
+        const legendContainer = document.querySelector("[data-election-legend]");
+        const RACES_CONFIG = {
+            governor: {
+                url: "/assets/california-2026-primary/governor.json",
+                regex: /Governor - (.+) County Results/ 
+            },
+            lieutenantGovernor: {
+                url: "/assets/california-2026-primary/lieutenant-governor.json",
+                regex: /Lieutenant Governor - (.+) County Results/
+            },
+            attorneyGeneral: {
+                url: "/assets/california-2026-primary/attorney-general.json",
+                regex: /Attorney General - (.+) County Results/
+            },
+            secretaryOfState: {
+                url: "/assets/california-2026-primary/secretary-of-state.json",
+                regex: /Secretary of State - (.+) County Results/
+            },
+            controller: {
+                url: "/assets/california-2026-primary/controller.json",
+                regex: /Controller - (.+) County Results/
+            },
+            treasurer: {
+                url: "/assets/california-2026-primary/treasurer.json",
+                regex: /Treasurer - (.+) County Results/
+            },
+            insuranceCommissioner: {
+                url: "/assets/california-2026-primary/insurance-commissioner.json",
+                regex: /Insurance Commissioner - (.+) County Results/
+            },
+            superintendent: {
+                url: "/assets/california-2026-primary/superintendent-of-public-instruction.json",
+                regex: /Superintendent of Public Instruction - (.+) County Results/
+            }
+        };
+
+
+        if (!map || !infobox || !countyName || counties.length === 0) {
+            return;
+        }
+
+        const elections = {
+            activeRace: "governor", 
+            data: {} 
+        };
+
+        const globalPartyCounters = {};
+        const globalCandidateColors = {};
+
+        const updateMapColors = () => {
+            const raceA = raceASelect.value;
+            const candA = candASelect.value;
+            const raceB = raceBSelect.value;
+            const candB = candBSelect.value;
+
+            const dataA = elections.data[raceA];
+            const dataB = (raceB !== "none" && candB !== "none") ? elections.data[raceB] : null;
+
+            if (!dataA) return;
+
+            let maxVal = 0;
+            if (dataB) {
+                for (const k in dataA.counties) {
+                    const rA = dataA.counties[k].find(x => x.Name === candA);
+                    const rB = dataB.counties[k]?.find(x => x.Name === candB);
+                    if (rA && rB) {
+                        const m = Math.abs(parseFloat(rA.Percent) - parseFloat(rB.Percent));
+                        if (m > maxVal) maxVal = m;
+                    }
+                }
+            } else if (candA !== "all") {
+                for (const k in dataA.counties) {
+                    const rA = dataA.counties[k].find(x => x.Name === candA);
+                    if (rA && parseFloat(rA.Percent) > maxVal) maxVal = parseFloat(rA.Percent);
+                }
+            }
+
+            for (const county of counties) {
+                const resultsA = dataA.counties[county.id];
+                if (!resultsA) continue;
+
+                if (!dataB) {
+                    if (candA === "all") {
+                        const winner = resultsA[0];
+                        county.style.fill = dataA.colors[winner.Name] || "#cbd5e1";
+                        county.style.fillOpacity = 1;
+                    } else {
+                        const candidate = resultsA.find(c => c.Name === candA);
+                        const baseColor = dataA.colors[candA] || "#cbd5e1";
+                        if (candidate) {
+                            const pct = parseFloat(candidate.Percent) || 0;
+                            const opacity = maxVal > 0 ? Math.min(Math.max(pct / maxVal, 0.1), 1) : 0.1;
+                            county.style.fill = baseColor;
+                            county.style.fillOpacity = opacity;
+                        } else {
+                            county.style.fill = "#f1f5f9";
+                            county.style.fillOpacity = 1;
+                        }
+                    }
+                } else {
+                    const resultsB = dataB.counties[county.id];
+                    const candDataA = resultsA.find(c => c.Name === candA);
+                    const candDataB = resultsB?.find(c => c.Name === candB);
+
+                    if (candDataA && candDataB) {
+                        const pctA = parseFloat(candDataA.Percent) || 0;
+                        const pctB = parseFloat(candDataB.Percent) || 0;
+                        const margin = pctA - pctB;
+                        const absMargin = Math.abs(margin);
+                        const winner = margin > 0 ? candA : candB;
+                        const colorSource = margin > 0 ? dataA : dataB;
+                        
+                        county.style.fill = colorSource.colors[winner] || "#cbd5e1";
+                        county.style.fillOpacity = maxVal > 0 ? Math.min(Math.max(absMargin / maxVal, 0.15), 1) : 0.5;
+                    } else {
+                        county.style.fill = "#f1f5f9";
+                        county.style.fillOpacity = 1;
+                    }
+                }
+            }
+            updateLegend();
+        };
+
+        const updateCandidateSelector = async (raceKey, selectElem) => {
+            const data = await loadRaceData(raceKey);
+            if (!data) return;
+
+            const currentVal = selectElem.value;
+            selectElem.innerHTML = "";
+            if (selectElem === candASelect) {
+                const opt = document.createElement("option");
+                opt.value = "all";
+                opt.textContent = "Leaders";
+                selectElem.appendChild(opt);
+            }
+            
+            data.candidates.slice(0, 15).forEach(c => {
+                const name = c.Name.trim();
+                const opt = document.createElement("option");
+                opt.value = name;
+                opt.textContent = `${name} (${c.Party})`;
+                selectElem.appendChild(opt);
+            });
+
+            if ([...selectElem.options].some(o => o.value === currentVal)) {
+                selectElem.value = currentVal;
+            }
+        };
+
+        const updateLegend = () => {
+            const dataA = elections.data[raceASelect.value];
+            const dataB = elections.data[raceBSelect.value];
+            const candA = candASelect.value;
+            const candB = candBSelect.value;
+
+            if (!dataA || !legendContainer) return;
+
+            legendContainer.innerHTML = "";
+
+            if (raceBSelect.value === "none") {
+                if (candA === "all") {
+                    const winningCandidateNames = new Set();
+                    for (const countyId in dataA.counties) {
+                        winningCandidateNames.add(dataA.counties[countyId][0].Name);
+                    }
+                    dataA.candidates.filter(c => winningCandidateNames.has(c.Name)).forEach(c => createLegendItem(c, dataA.colors[c.Name]));
+                } else {
+                    const candidate = dataA.candidates.find(c => c.Name === candA);
+                    if (candidate) createLegendItem(candidate, dataA.colors[candidate.Name]);
+                }
+            } else if (dataB) {
+                const cA = dataA.candidates.find(c => c.Name === candA);
+                const cB = dataB.candidates.find(c => c.Name === candB);
+                if (cA) createLegendItem(cA, dataA.colors[cA.Name]);
+                if (cB) createLegendItem(cB, dataB.colors[cB.Name]);
+            }
+        };
+
+        const createLegendItem = (candidate, color) => {
+            const item = document.createElement("div");
+            item.className = "legend-item";
+            const swatch = document.createElement("div");
+            swatch.className = "legend-color";
+            swatch.style.backgroundColor = color;
+            const label = document.createElement("span");
+            label.innerText = `${candidate.Name} (${candidate.Party})`;
+            item.appendChild(swatch);
+            item.appendChild(label);
+            legendContainer.appendChild(item);
+        };
+
+        const positionInfobox = (clientX, clientY) => {
+            const margin = 16;
+            const { width, height } = infobox.getBoundingClientRect();
+            const halfWidth = width / 2;
+            const x = Math.min(
+                Math.max(clientX, margin + halfWidth),
+                window.innerWidth - margin - halfWidth,
+            );
+            const y = Math.min(
+                Math.max(clientY, margin + height + 14),
+                window.innerHeight - margin,
+            );
+
+            infobox.style.left = `${x}px`;
+            infobox.style.top = `${y}px`;
+        };
+
+        const renderTableRows = (tbody, candidates, highlightedNames = []) => {
+            tbody.innerHTML = "";
+            candidates.forEach(c => {
+                const tr = document.createElement("tr");
+                if (highlightedNames.includes(c.Name)) tr.style.fontWeight = "bold";
+                tr.innerHTML = `
+                    <td>${c.Name}</td>
+                    <td>${c.Party}</td>
+                    <td>${c.Votes}</td>
+                    <td>${c.Percent}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        };
+
+        const showInfobox = (county, clientX, clientY) => {
+            countyName.textContent = `${county.id} County`;
+            infobox.classList.add("is-visible");
+            infobox.setAttribute("aria-hidden", "false");
+            positionInfobox(clientX, clientY);
+
+            const raceA = raceASelect.value;
+            const dataA = elections.data[raceA];
+            if (!dataA || !dataA.counties[county.id]) return;
+
+            const countyDataA = dataA.counties[county.id];
+            const candA = candASelect.value;
+            const candB = candBSelect.value;
+            const dataB = elections.data[raceBSelect.value];
+            const isComparing = raceBSelect.value !== "none" && candB !== "none" && dataB;
+            const isSameRace = isComparing && raceA === raceBSelect.value;
+
+            // Update Race A Info
+            raceANameElem.textContent = raceASelect.options[raceASelect.selectedIndex].text;
+            
+            const highlights = [candA, isSameRace ? candB : null].filter(h => h && h !== "all");
+            const maxRows = 4;
+            let displayA = [...countyDataA.slice(0, maxRows)];
+            
+            // Find candidates that aren't in the top N
+            const missing = highlights
+                .filter(h => !displayA.some(c => c.Name === h))
+                .map(h => countyDataA.find(c => c.Name === h))
+                .filter(Boolean)
+                .sort((a, b) => parseFloat(b.Percent) - parseFloat(a.Percent));
+
+            // Replace from the bottom up
+            missing.forEach((cand, idx) => {
+                const targetIdx = Math.min(maxRows - 1, displayA.length - 1) - idx;
+                if (targetIdx >= 0) displayA[targetIdx] = cand;
+            });
+
+            renderTableRows(raceABody, displayA, highlights);
+
+            // Handle Comparison and Race B
+            if (isComparing) {
+                const countyDataB = dataB.counties[county.id];
+                const cDataA = countyDataA.find(c => c.Name === candA);
+                const cDataB = countyDataB.find(c => c.Name === candB);
+
+                if (!isSameRace) {
+                    raceBBox.style.display = "block";
+                    raceBNameElem.textContent = raceBSelect.options[raceBSelect.selectedIndex].text;
+                    
+                    let displayB = [...countyDataB.slice(0, 4)];
+                    if (!displayB.some(c => c.Name === candB)) {
+                        const found = countyDataB.find(c => c.Name === candB);
+                        if (found) {
+                            displayB[displayB.length - 1] = found;
+                        }
+                    }
+                    renderTableRows(raceBBody, displayB, [candB]);
+                } else {
+                    raceBBox.style.display = "none";
+                }
+                
+                if (cDataA && cDataB) {
+                    const diff = parseFloat(cDataA.Percent) - parseFloat(cDataB.Percent);
+                    const winner = diff > 0 ? candA : candB;
+                    const winnerData = (diff > 0) ? dataA : dataB;
+
+                    comparisonSummary.style.display = "block";
+                    comparisonSummary.innerHTML = `
+                        <div style="font-weight: bold; color: ${winnerData.colors[winner] || 'inherit'}">
+                            ${winner} leads by ${Math.abs(diff).toFixed(1)}%
+                        </div>
+                    `;
+                } else {
+                    comparisonSummary.style.display = "none";
+                }
+            } else {
+                raceBBox.style.display = "none";
+                comparisonSummary.style.display = "none";
+            }
+        };
+
+        const hideInfobox = () => {
+            infobox.classList.remove("is-visible");
+            infobox.setAttribute("aria-hidden", "true");
+        };
+
+        const assignCandidateColors = (statewideCandidates) => {
+            const palettes = {
+                "DEM": [
+                    "#1e40af", // Dark Blue
+                    "#0891b2", // Cyan
+                    "#4f46e5", // Indigo
+                    "#0ea5e9", // Sky Blue
+                    "#3b82f6", // Bright Blue
+                    "#6366f1", // Violet-Indigo
+                    "#1d4ed8"  // Royal Blue
+                ],
+                "REP": [
+                    "#991b1b", // Dark Red
+                    "#ea580c", // Orange-Red
+                    "#dc2626", // Red
+                    "#be123c", // Rose
+                    "#f97316", // Orange
+                    "#db2777", // Pink-Red
+                    "#e11d48"  // Crimson
+                ],
+                "NPP": [
+                    "#166534", // Dark Green
+                    "#7c3aed", // Purple
+                    "#84cc16", // Lime
+                    "#ca8a04", // Gold
+                    "#059669", // Emerald
+                    "#4b5563", // Slate
+                    "#2563eb"  // Blue-ish
+                ],
+                "DEFAULT": ["#64748b", "#475569", "#334155"]
+            };
+
+            const candidateColors = {};
+
+            for (const candidate of statewideCandidates) {
+                const name = candidate.Name.trim();
+                
+                // If this specific person already has a color assigned from another race load, reuse it
+                if (globalCandidateColors[name]) {
+                    candidateColors[name] = globalCandidateColors[name];
+                    continue;
+                }
+
+                let partyKey = "DEFAULT";
+                if (candidate.Party.includes("Dem")) partyKey = "DEM";
+                else if (candidate.Party.includes("Rep")) partyKey = "REP";
+                else if (candidate.Party.includes("Non") || candidate.Party.includes("Ind") || candidate.Party.includes("Lib") || candidate.Party.includes("Grn")) partyKey = "NPP";
+
+                globalPartyCounters[partyKey] = globalPartyCounters[partyKey] || 0;
+                const colorArray = palettes[partyKey];
+                const assignedColor = colorArray[globalPartyCounters[partyKey] % colorArray.length];
+                
+                globalCandidateColors[name] = assignedColor;
+                candidateColors[name] = assignedColor;
+                globalPartyCounters[partyKey]++;
+            }
+
+            return candidateColors;
+        };
+
+        const loadRaceData = async (raceKey) => {
+            if (elections.data[raceKey]) return elections.data[raceKey];
+
+            const config = RACES_CONFIG[raceKey];
+            if (!config) return null;
+
+            try {
+                const rawData = await fetch(config.url).then(r => r.json());
+                if (!rawData || !rawData.length) throw new Error("Empty or invalid data");
+
+                const statewideEntry = rawData.find(item => item.raceTitle?.includes("Statewide Results")) || rawData[0];
+                const statewideCandidates = (statewideEntry.candidates || []).sort((a, b) => {
+                    const votes = (c) => parseInt((c.Votes || "0").toString().replace(/,/g, ""));
+                    return votes(b) - votes(a);
+                });
+
+                const colors = assignCandidateColors(statewideCandidates);
+                const parsedResult = {};
+
+                for (const item of rawData) {
+                    if (!item.raceTitle || !item.candidates) continue;
+
+                    let matches = item.raceTitle.match(config.regex);
+                    if (!matches) continue;
+
+                    const countyName = matches[1].trim();
+                    const sortedCandidates = item.candidates.sort((a, b) => {
+                        const votes = (c) => parseInt((c.Votes || "0").toString().replace(/,/g, ""));
+                        return votes(b) - votes(a);
+                    });
+                    
+                    sortedCandidates.forEach(c => c.Name = c.Name.trim());
+                    parsedResult[countyName] = sortedCandidates;
+                }
+
+                elections.data[raceKey] = {
+                    counties: parsedResult,
+                    colors: colors,
+                    candidates: statewideCandidates.map(c => ({...c, Name: c.Name.trim()}))
+                };
+
+                return elections.data[raceKey];
+            } catch (err) {
+                console.error(`Failed to load data for ${raceKey}:`, err);
+                return null;
+            }
+        };
+
+        // Initial setup
+        await updateCandidateSelector("governor", candASelect);
+        updateMapColors();
+
+        raceASelect.addEventListener("change", async () => {
+            await updateCandidateSelector(raceASelect.value, candASelect);
+            updateMapColors();
+        });
+
+        candASelect.addEventListener("change", updateMapColors);
+
+        raceBSelect.addEventListener("change", async () => {
+            if (raceBSelect.value === "none") {
+                candBSelect.innerHTML = '<option value="none">-</option>';
+                candBSelect.disabled = true;
+            } else {
+                candBSelect.disabled = false;
+                await updateCandidateSelector(raceBSelect.value, candBSelect);
+            }
+            updateMapColors();
+        });
+
+        candBSelect.addEventListener("change", updateMapColors);
+
+        for (const county of counties) {
+            county.setAttribute("tabindex", "0");
+            county.setAttribute("role", "img");
+            county.setAttribute("aria-label", `${county.id} County`);
+
+            county.addEventListener("pointerenter", (event) => {
+                showInfobox(county, event.clientX, event.clientY);
+            });
+            county.addEventListener("pointermove", (event) => {
+                positionInfobox(event.clientX, event.clientY);
+            });
+            county.addEventListener("pointerleave", hideInfobox);
+            county.addEventListener("focus", () => {
+                const rect = county.getBoundingClientRect();
+                showInfobox(county, rect.left + rect.width / 2, rect.top);
+            });
+            county.addEventListener("blur", hideInfobox);
+        }
+    })();
+</script>
+
+<p class="footer">This statistical visualization is my own and does not represent the views of the University of Illinois Urbana-Champaign or the Board of Trustees</p>

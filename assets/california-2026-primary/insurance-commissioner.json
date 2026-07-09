@@ -1,0 +1,4958 @@
+[
+    {
+        "raceTitle": "Insurance Commissioner - Statewide Results",
+        "Reporting": "100% (19,788 of 19,788) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,649,501",
+                "Percent": "19.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "416,998",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "2,328,835",
+                "Percent": "27.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "615,067",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "158,602",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "570,669",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "649,091",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,320,964",
+                "Percent": "15.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "458,055",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "83,994",
+                "Percent": "1.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "248,039",
+                "Percent": "2.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Alameda County Results",
+        "Reporting": "100% (546 of 546) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:21 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "97,438",
+                "Percent": "26.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "18,949",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "135,116",
+                "Percent": "36.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "32,401",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,928",
+                "Percent": "0.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "12,061",
+                "Percent": "3.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "14,482",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "25,847",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "14,417",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "3,036",
+                "Percent": "0.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "11,388",
+                "Percent": "3.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Alpine County Results",
+        "Reporting": "100% (5 of 5) precincts reporting",
+        "ReportingTime": "June 10, 2026, 5:48 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "102",
+                "Percent": "23.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "14",
+                "Percent": "3.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "104",
+                "Percent": "23.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "54",
+                "Percent": "12.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "8",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "29",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "33",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "45",
+                "Percent": "10.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "29",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "6",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "15",
+                "Percent": "3.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Amador County Results",
+        "Reporting": "100% (47 of 47) precincts reporting",
+        "ReportingTime": "June 19, 2026, 2:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,467",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "278",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "2,089",
+                "Percent": "14.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "1,177",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "652",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,590",
+                "Percent": "10.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,078",
+                "Percent": "14.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "3,226",
+                "Percent": "21.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,765",
+                "Percent": "11.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "232",
+                "Percent": "1.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "237",
+                "Percent": "1.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Butte County Results",
+        "Reporting": "100% (89 of 89) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:11 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "7,317",
+                "Percent": "13.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "1,987",
+                "Percent": "3.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "11,889",
+                "Percent": "21.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "3,144",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,052",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "6,096",
+                "Percent": "10.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "7,632",
+                "Percent": "13.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "10,480",
+                "Percent": "18.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "3,232",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,176",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,421",
+                "Percent": "2.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Calaveras County Results",
+        "Reporting": "100% (25 of 25) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,680",
+                "Percent": "10.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "276",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "2,780",
+                "Percent": "16.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "757",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,054",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "2,056",
+                "Percent": "12.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,095",
+                "Percent": "12.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "4,181",
+                "Percent": "25.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,192",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "214",
+                "Percent": "1.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "222",
+                "Percent": "1.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Colusa County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "409",
+                "Percent": "10.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "183",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "499",
+                "Percent": "12.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "143",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "145",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "413",
+                "Percent": "10.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "864",
+                "Percent": "21.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "865",
+                "Percent": "21.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "309",
+                "Percent": "7.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "51",
+                "Percent": "1.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "114",
+                "Percent": "2.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Contra Costa County Results",
+        "Reporting": "100% (938 of 938) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:13 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "80,998",
+                "Percent": "27.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "17,384",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "76,586",
+                "Percent": "26.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "22,313",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "4,338",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "17,784",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "21,783",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "31,030",
+                "Percent": "10.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "11,486",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "3,434",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "6,855",
+                "Percent": "2.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Del Norte County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 3:19 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "800",
+                "Percent": "13.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "263",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "1,079",
+                "Percent": "17.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "274",
+                "Percent": "4.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "261",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "422",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "554",
+                "Percent": "9.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,552",
+                "Percent": "25.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "704",
+                "Percent": "11.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "86",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "119",
+                "Percent": "1.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - El Dorado County Results",
+        "Reporting": "100% (98 of 98) precincts reporting",
+        "ReportingTime": "July 1, 2026, 4:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "9,057",
+                "Percent": "13.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "2,010",
+                "Percent": "2.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "12,704",
+                "Percent": "18.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "4,251",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,517",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "9,979",
+                "Percent": "14.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "7,227",
+                "Percent": "10.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "15,249",
+                "Percent": "22.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "4,958",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "307",
+                "Percent": "0.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "758",
+                "Percent": "1.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Fresno County Results",
+        "Reporting": "100% (222 of 222) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "19,015",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "6,999",
+                "Percent": "4.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "41,394",
+                "Percent": "24.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "9,565",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "5,532",
+                "Percent": "3.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "12,438",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "13,272",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "42,120",
+                "Percent": "25.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "10,470",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,825",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "6,104",
+                "Percent": "3.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Glenn County Results",
+        "Reporting": "100% (114 of 114) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "485",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "214",
+                "Percent": "3.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "698",
+                "Percent": "11.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "221",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "299",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "671",
+                "Percent": "11.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "1,232",
+                "Percent": "20.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,558",
+                "Percent": "25.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "441",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "127",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "119",
+                "Percent": "2.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Humboldt County Results",
+        "Reporting": "100% (100 of 100) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "6,949",
+                "Percent": "18.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "1,475",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "12,419",
+                "Percent": "33.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "2,105",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "969",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,786",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,106",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "5,295",
+                "Percent": "14.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "2,196",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "522",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,465",
+                "Percent": "3.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Imperial County Results",
+        "Reporting": "100% (263 of 263) precincts reporting",
+        "ReportingTime": "June 29, 2026, 1:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "3,711",
+                "Percent": "15.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "1,736",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "5,620",
+                "Percent": "23.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "1,381",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "394",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,306",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,959",
+                "Percent": "12.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "3,352",
+                "Percent": "14.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,073",
+                "Percent": "4.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "425",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,644",
+                "Percent": "7.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Inyo County Results",
+        "Reporting": "100% (13 of 13) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:05 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "737",
+                "Percent": "13.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "111",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "1,235",
+                "Percent": "23.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "313",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "419",
+                "Percent": "7.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "357",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "427",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,242",
+                "Percent": "23.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "275",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "76",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "142",
+                "Percent": "2.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Kern County Results",
+        "Reporting": "100% (819 of 819) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:14 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "14,315",
+                "Percent": "10.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "5,671",
+                "Percent": "4.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "26,830",
+                "Percent": "19.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "6,587",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "3,591",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "12,672",
+                "Percent": "9.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "13,743",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "31,266",
+                "Percent": "22.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "17,000",
+                "Percent": "12.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,908",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "4,649",
+                "Percent": "3.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Kings County Results",
+        "Reporting": "100% (33 of 33) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:32 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,497",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "732",
+                "Percent": "3.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "3,581",
+                "Percent": "17.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "1,661",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "389",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,340",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,516",
+                "Percent": "12.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "5,236",
+                "Percent": "25.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "2,927",
+                "Percent": "14.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "287",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "706",
+                "Percent": "3.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Lake County Results",
+        "Reporting": "100% (37 of 37) precincts reporting",
+        "ReportingTime": "June 30, 2026, 3:56 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "2,894",
+                "Percent": "18.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "653",
+                "Percent": "4.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "3,188",
+                "Percent": "20.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "862",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "627",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,354",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,254",
+                "Percent": "14.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "2,430",
+                "Percent": "15.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "769",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "296",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "353",
+                "Percent": "2.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Lassen County Results",
+        "Reporting": "100% (52 of 52) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:58 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "394",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "103",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "612",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "311",
+                "Percent": "4.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "557",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "963",
+                "Percent": "13.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "1,085",
+                "Percent": "15.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,721",
+                "Percent": "24.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "993",
+                "Percent": "14.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "111",
+                "Percent": "1.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "77",
+                "Percent": "1.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Los Angeles County Results",
+        "Reporting": "100% (2,175 of 2,175) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:28 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "419,873",
+                "Percent": "21.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "127,801",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "626,236",
+                "Percent": "32.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "124,088",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "28,943",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "104,356",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "115,110",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "221,836",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "89,538",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "19,369",
+                "Percent": "1.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "78,652",
+                "Percent": "4.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Madera County Results",
+        "Reporting": "100% (54 of 54) precincts reporting",
+        "ReportingTime": "June 26, 2026, 1:10 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "3,214",
+                "Percent": "10.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "1,589",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "5,302",
+                "Percent": "17.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "1,177",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,220",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "3,602",
+                "Percent": "11.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,734",
+                "Percent": "9.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "8,709",
+                "Percent": "28.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,714",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "331",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "852",
+                "Percent": "2.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Marin County Results",
+        "Reporting": "100% (74 of 74) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "29,148",
+                "Percent": "32.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "2,148",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "24,088",
+                "Percent": "27.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "14,455",
+                "Percent": "16.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "522",
+                "Percent": "0.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "2,399",
+                "Percent": "2.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "6,073",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "4,325",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "3,934",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "686",
+                "Percent": "0.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,403",
+                "Percent": "1.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Mariposa County Results",
+        "Reporting": "100% (27 of 27) precincts reporting",
+        "ReportingTime": "June 25, 2026, 10:46 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "676",
+                "Percent": "10.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "95",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "1,228",
+                "Percent": "19.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "352",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "444",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "611",
+                "Percent": "9.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "620",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,701",
+                "Percent": "27.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "376",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "72",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "96",
+                "Percent": "1.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Mendocino County Results",
+        "Reporting": "100% (258 of 258) precincts reporting",
+        "ReportingTime": "June 30, 2026, 12:28 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "5,223",
+                "Percent": "22.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "1,040",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "7,416",
+                "Percent": "31.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "1,308",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "718",
+                "Percent": "3.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,391",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "1,541",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "2,588",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,748",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "148",
+                "Percent": "0.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "506",
+                "Percent": "2.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Merced County Results",
+        "Reporting": "100% (729 of 729) precincts reporting",
+        "ReportingTime": "June 25, 2026, 11:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "5,944",
+                "Percent": "13.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "3,787",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "8,572",
+                "Percent": "19.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "2,093",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,220",
+                "Percent": "2.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "6,006",
+                "Percent": "13.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "3,806",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "7,004",
+                "Percent": "16.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "2,596",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "466",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,757",
+                "Percent": "4.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Modoc County Results",
+        "Reporting": "100% (21 of 21) precincts reporting",
+        "ReportingTime": "July 3, 2026, 3:37 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "174",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "32",
+                "Percent": "1.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "252",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "119",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "168",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "273",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "418",
+                "Percent": "16.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "562",
+                "Percent": "22.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "404",
+                "Percent": "16.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "44",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "45",
+                "Percent": "1.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Mono County Results",
+        "Reporting": "100% (12 of 12) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:59 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "613",
+                "Percent": "18.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "83",
+                "Percent": "2.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "966",
+                "Percent": "28.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "183",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "197",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "212",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "213",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "580",
+                "Percent": "17.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "184",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "41",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "84",
+                "Percent": "2.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Monterey County Results",
+        "Reporting": "100% (208 of 208) precincts reporting",
+        "ReportingTime": "June 26, 2026, 2:44 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "16,961",
+                "Percent": "22.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "2,591",
+                "Percent": "3.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "24,147",
+                "Percent": "31.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "4,916",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,856",
+                "Percent": "3.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "3,593",
+                "Percent": "4.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "4,869",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "10,285",
+                "Percent": "13.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "3,343",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "683",
+                "Percent": "0.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "2,377",
+                "Percent": "3.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Napa County Results",
+        "Reporting": "100% (167 of 167) precincts reporting",
+        "ReportingTime": "June 25, 2026, 3:15 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "9,900",
+                "Percent": "26.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "2,209",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "9,768",
+                "Percent": "25.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "2,771",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "454",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "2,268",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "4,331",
+                "Percent": "11.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "4,146",
+                "Percent": "10.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,108",
+                "Percent": "2.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "331",
+                "Percent": "0.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "718",
+                "Percent": "1.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Nevada County Results",
+        "Reporting": "100% (43 of 43) precincts reporting",
+        "ReportingTime": "June 25, 2026, 9:01 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "6,078",
+                "Percent": "15.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "885",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "10,006",
+                "Percent": "25.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "3,929",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "717",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "2,092",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,277",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "10,299",
+                "Percent": "26.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "2,220",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "413",
+                "Percent": "1.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "688",
+                "Percent": "1.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Orange County Results",
+        "Reporting": "100% (2,367 of 2,367) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:40 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "120,993",
+                "Percent": "16.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "30,944",
+                "Percent": "4.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "165,698",
+                "Percent": "22.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "43,868",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "12,609",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "75,336",
+                "Percent": "10.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "74,807",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "152,161",
+                "Percent": "20.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "39,055",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "6,558",
+                "Percent": "0.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "16,852",
+                "Percent": "2.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Placer County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 29, 2026, 3:22 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "20,494",
+                "Percent": "14.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "5,625",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "25,315",
+                "Percent": "18.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "7,935",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "3,884",
+                "Percent": "2.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "14,763",
+                "Percent": "10.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "11,363",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "39,018",
+                "Percent": "27.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "8,296",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,241",
+                "Percent": "0.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,770",
+                "Percent": "1.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Plumas County Results",
+        "Reporting": "100% (29 of 29) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:09 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "761",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "118",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "1,138",
+                "Percent": "16.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "586",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "365",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "656",
+                "Percent": "9.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "887",
+                "Percent": "12.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "1,294",
+                "Percent": "18.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "819",
+                "Percent": "11.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "130",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "145",
+                "Percent": "2.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Riverside County Results",
+        "Reporting": "100% (834 of 834) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "74,824",
+                "Percent": "14.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "36,150",
+                "Percent": "7.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "112,615",
+                "Percent": "22.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "26,394",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "13,140",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "47,453",
+                "Percent": "9.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "60,351",
+                "Percent": "11.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "89,838",
+                "Percent": "17.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "25,072",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "7,181",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "14,150",
+                "Percent": "2.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Sacramento County Results",
+        "Reporting": "100% (607 of 607) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:38 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "64,702",
+                "Percent": "18.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "15,590",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "105,895",
+                "Percent": "29.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "27,081",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "9,304",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "23,509",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "26,770",
+                "Percent": "7.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "50,193",
+                "Percent": "13.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "22,238",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "4,231",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "10,376",
+                "Percent": "2.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Benito County Results",
+        "Reporting": "100% (26 of 26) precincts reporting",
+        "ReportingTime": "June 26, 2026, 12:16 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "3,800",
+                "Percent": "24.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "436",
+                "Percent": "2.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "3,534",
+                "Percent": "22.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "844",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "712",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,066",
+                "Percent": "6.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "1,322",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "2,411",
+                "Percent": "15.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "862",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "55",
+                "Percent": "0.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "403",
+                "Percent": "2.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Bernardino County Results",
+        "Reporting": "100% (2,065 of 2,065) precincts reporting",
+        "ReportingTime": "June 26, 2026, 9:38 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "54,804",
+                "Percent": "14.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "17,726",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "79,578",
+                "Percent": "21.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "27,034",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "10,157",
+                "Percent": "2.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "36,959",
+                "Percent": "10.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "35,920",
+                "Percent": "9.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "62,767",
+                "Percent": "16.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "26,707",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "4,564",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "14,121",
+                "Percent": "3.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Diego County Results",
+        "Reporting": "100% (1,976 of 1,976) precincts reporting",
+        "ReportingTime": "July 2, 2026, 12:52 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "140,934",
+                "Percent": "18.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "29,561",
+                "Percent": "3.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "213,308",
+                "Percent": "27.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "48,304",
+                "Percent": "6.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "9,904",
+                "Percent": "1.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "35,392",
+                "Percent": "4.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "42,582",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "193,965",
+                "Percent": "25.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "42,306",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "3,420",
+                "Percent": "0.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "15,656",
+                "Percent": "2.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Francisco County Results",
+        "Reporting": "100% (514 of 514) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:07 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "42,995",
+                "Percent": "18.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "4,472",
+                "Percent": "1.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "100,173",
+                "Percent": "41.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "54,304",
+                "Percent": "22.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,778",
+                "Percent": "0.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "7,417",
+                "Percent": "3.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "5,609",
+                "Percent": "2.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "9,996",
+                "Percent": "4.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "5,589",
+                "Percent": "2.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,365",
+                "Percent": "0.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "5,669",
+                "Percent": "2.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Joaquin County Results",
+        "Reporting": "100% (260 of 260) precincts reporting",
+        "ReportingTime": "June 24, 2026, 6:39 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "18,217",
+                "Percent": "14.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "7,069",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "28,431",
+                "Percent": "22.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "7,991",
+                "Percent": "6.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,685",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "9,986",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "12,719",
+                "Percent": "10.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "23,107",
+                "Percent": "18.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "11,879",
+                "Percent": "9.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,786",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "3,905",
+                "Percent": "3.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Luis Obispo County Results",
+        "Reporting": "100% (102 of 102) precincts reporting",
+        "ReportingTime": "June 25, 2026, 8:59 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "15,460",
+                "Percent": "16.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "2,162",
+                "Percent": "2.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "23,211",
+                "Percent": "25.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "6,095",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "3,822",
+                "Percent": "4.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "4,824",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "6,639",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "23,622",
+                "Percent": "25.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "3,415",
+                "Percent": "3.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "633",
+                "Percent": "0.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,605",
+                "Percent": "1.8",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - San Mateo County Results",
+        "Reporting": "100% (279 of 279) precincts reporting",
+        "ReportingTime": "June 30, 2026, 4:32 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "47,117",
+                "Percent": "25.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "5,533",
+                "Percent": "3.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "59,892",
+                "Percent": "32.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "20,109",
+                "Percent": "11.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,823",
+                "Percent": "1.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "6,638",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "13,577",
+                "Percent": "7.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "11,569",
+                "Percent": "6.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "9,961",
+                "Percent": "5.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,467",
+                "Percent": "0.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "4,282",
+                "Percent": "2.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Santa Barbara County Results",
+        "Reporting": "100% (147 of 147) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "25,037",
+                "Percent": "25.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "5,335",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "23,655",
+                "Percent": "23.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "5,073",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,434",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "4,838",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "8,884",
+                "Percent": "8.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "19,860",
+                "Percent": "19.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "2,665",
+                "Percent": "2.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "833",
+                "Percent": "0.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "2,583",
+                "Percent": "2.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Santa Clara County Results",
+        "Reporting": "100% (573 of 573) precincts reporting",
+        "ReportingTime": "June 30, 2026, 2:40 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "108,983",
+                "Percent": "28.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "19,562",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "102,426",
+                "Percent": "26.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "29,356",
+                "Percent": "7.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,971",
+                "Percent": "0.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "26,006",
+                "Percent": "6.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "32,456",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "30,702",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "18,178",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "3,686",
+                "Percent": "1.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "8,322",
+                "Percent": "2.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Santa Cruz County Results",
+        "Reporting": "100% (137 of 137) precincts reporting",
+        "ReportingTime": "June 26, 2026, 4:25 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "21,651",
+                "Percent": "28.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "2,530",
+                "Percent": "3.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "28,755",
+                "Percent": "37.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "5,173",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,413",
+                "Percent": "1.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "4,413",
+                "Percent": "5.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "3,344",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "5,586",
+                "Percent": "7.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,668",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "471",
+                "Percent": "0.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "2,334",
+                "Percent": "3.0",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Shasta County Results",
+        "Reporting": "100% (68 of 68) precincts reporting",
+        "ReportingTime": "June 25, 2026, 2:00 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "4,447",
+                "Percent": "8.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "841",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "6,694",
+                "Percent": "13.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "3,395",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,053",
+                "Percent": "4.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "4,539",
+                "Percent": "8.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "5,486",
+                "Percent": "10.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "16,907",
+                "Percent": "33.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "5,001",
+                "Percent": "9.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "762",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "687",
+                "Percent": "1.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Sierra County Results",
+        "Reporting": "100% (19 of 19) precincts reporting",
+        "ReportingTime": "June 24, 2026, 2:29 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "118",
+                "Percent": "10.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "14",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "196",
+                "Percent": "17.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "80",
+                "Percent": "7.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "76",
+                "Percent": "6.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "125",
+                "Percent": "10.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "139",
+                "Percent": "12.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "249",
+                "Percent": "21.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "130",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "4",
+                "Percent": "0.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "18",
+                "Percent": "1.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Siskiyou County Results",
+        "Reporting": "100% (56 of 56) precincts reporting",
+        "ReportingTime": "June 26, 2026, 8:31 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,425",
+                "Percent": "11.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "268",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "2,225",
+                "Percent": "17.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "954",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "614",
+                "Percent": "4.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,106",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,335",
+                "Percent": "18.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "2,050",
+                "Percent": "15.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,586",
+                "Percent": "12.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "190",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "241",
+                "Percent": "1.9",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Solano County Results",
+        "Reporting": "100% (160 of 160) precincts reporting",
+        "ReportingTime": "June 30, 2026, 1:54 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "17,676",
+                "Percent": "17.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "4,453",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "25,177",
+                "Percent": "25.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "11,824",
+                "Percent": "11.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,058",
+                "Percent": "2.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "6,050",
+                "Percent": "6.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "8,149",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "12,374",
+                "Percent": "12.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "8,035",
+                "Percent": "8.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,228",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "3,292",
+                "Percent": "3.3",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Sonoma County Results",
+        "Reporting": "100% (333 of 333) precincts reporting",
+        "ReportingTime": "June 25, 2026, 1:41 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "42,416",
+                "Percent": "27.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "5,806",
+                "Percent": "3.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "50,159",
+                "Percent": "32.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "13,500",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,423",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "6,862",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "8,542",
+                "Percent": "5.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "13,305",
+                "Percent": "8.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "8,101",
+                "Percent": "5.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,774",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "3,983",
+                "Percent": "2.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Stanislaus County Results",
+        "Reporting": "100% (95 of 95) precincts reporting",
+        "ReportingTime": "June 26, 2026, 3:51 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "9,366",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "3,019",
+                "Percent": "3.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "19,013",
+                "Percent": "20.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "8,986",
+                "Percent": "9.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "2,157",
+                "Percent": "2.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "8,016",
+                "Percent": "8.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "9,453",
+                "Percent": "10.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "19,019",
+                "Percent": "20.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "10,046",
+                "Percent": "10.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,077",
+                "Percent": "1.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "2,968",
+                "Percent": "3.2",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Sutter County Results",
+        "Reporting": "100% (24 of 24) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:44 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "2,434",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "880",
+                "Percent": "4.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "2,949",
+                "Percent": "13.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "924",
+                "Percent": "4.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "680",
+                "Percent": "3.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,879",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,901",
+                "Percent": "13.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "6,540",
+                "Percent": "30.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,407",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "481",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "456",
+                "Percent": "2.1",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Tehama County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 26, 2026, 5:18 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,211",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "431",
+                "Percent": "2.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "1,678",
+                "Percent": "10.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "584",
+                "Percent": "3.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "912",
+                "Percent": "5.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "2,205",
+                "Percent": "14.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "3,519",
+                "Percent": "22.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "3,225",
+                "Percent": "20.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,178",
+                "Percent": "7.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "347",
+                "Percent": "2.2",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "267",
+                "Percent": "1.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Trinity County Results",
+        "Reporting": "100% (9 of 9) precincts reporting",
+        "ReportingTime": "June 12, 2026, 3:55 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "490",
+                "Percent": "14.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "123",
+                "Percent": "3.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "708",
+                "Percent": "20.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "167",
+                "Percent": "4.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "154",
+                "Percent": "4.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "347",
+                "Percent": "9.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "364",
+                "Percent": "10.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "617",
+                "Percent": "17.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "402",
+                "Percent": "11.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "61",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "59",
+                "Percent": "1.7",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Tulare County Results",
+        "Reporting": "100% (161 of 161) precincts reporting",
+        "ReportingTime": "June 25, 2026, 4:53 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "5,662",
+                "Percent": "8.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "1,916",
+                "Percent": "2.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "12,741",
+                "Percent": "18.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "4,430",
+                "Percent": "6.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,005",
+                "Percent": "1.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "4,541",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "6,860",
+                "Percent": "10.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "19,978",
+                "Percent": "29.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "7,705",
+                "Percent": "11.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "717",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "2,482",
+                "Percent": "3.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Tuolumne County Results",
+        "Reporting": "100% (42 of 42) precincts reporting",
+        "ReportingTime": "June 26, 2026, 10:57 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,965",
+                "Percent": "10.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "303",
+                "Percent": "1.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "3,855",
+                "Percent": "20.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "931",
+                "Percent": "5.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "1,375",
+                "Percent": "7.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,471",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "1,557",
+                "Percent": "8.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "5,898",
+                "Percent": "31.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "954",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "210",
+                "Percent": "1.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "270",
+                "Percent": "1.4",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Ventura County Results",
+        "Reporting": "100% (1,433 of 1,433) precincts reporting",
+        "ReportingTime": "June 26, 2026, 11:42 a.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "40,280",
+                "Percent": "19.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "10,851",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "54,465",
+                "Percent": "25.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "11,137",
+                "Percent": "5.3",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "3,500",
+                "Percent": "1.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "19,237",
+                "Percent": "9.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "16,542",
+                "Percent": "7.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "37,468",
+                "Percent": "17.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "10,357",
+                "Percent": "4.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "1,870",
+                "Percent": "0.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "5,239",
+                "Percent": "2.5",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Yolo County Results",
+        "Reporting": "100% (38 of 38) precincts reporting",
+        "ReportingTime": "June 29, 2026, 4:30 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "12,461",
+                "Percent": "22.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "3,169",
+                "Percent": "5.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "16,568",
+                "Percent": "30.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "4,481",
+                "Percent": "8.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "776",
+                "Percent": "1.4",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "3,072",
+                "Percent": "5.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "4,795",
+                "Percent": "8.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "5,201",
+                "Percent": "9.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,969",
+                "Percent": "3.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "528",
+                "Percent": "1.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "1,980",
+                "Percent": "3.6",
+                "incumbent": false
+            }
+        ]
+    },
+    {
+        "raceTitle": "Insurance Commissioner - Yuba County Results",
+        "Reporting": "100% (28 of 28) precincts reporting",
+        "ReportingTime": "July 1, 2026, 3:50 p.m.",
+        "candidates": [
+            {
+                "Name": "Ben Allen",
+                "Party": "Dem",
+                "Votes": "1,709",
+                "Percent": "10.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Steven Craig Bradford",
+                "Party": "Dem",
+                "Votes": "813",
+                "Percent": "5.1",
+                "incumbent": false
+            },
+            {
+                "Name": "Jane Kim",
+                "Party": "Dem",
+                "Votes": "2,379",
+                "Percent": "14.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Patrick Wolff",
+                "Party": "Dem",
+                "Votes": "616",
+                "Percent": "3.8",
+                "incumbent": false
+            },
+            {
+                "Name": "Eric Thor Aarnio",
+                "Party": "Rep",
+                "Votes": "627",
+                "Percent": "3.9",
+                "incumbent": false
+            },
+            {
+                "Name": "Merritt Farren",
+                "Party": "Rep",
+                "Votes": "1,843",
+                "Percent": "11.5",
+                "incumbent": false
+            },
+            {
+                "Name": "Robert P Howell",
+                "Party": "Rep",
+                "Votes": "2,885",
+                "Percent": "18.0",
+                "incumbent": false
+            },
+            {
+                "Name": "Stacy A. Korsgaden",
+                "Party": "Rep",
+                "Votes": "3,314",
+                "Percent": "20.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Sean Lee",
+                "Party": "Rep",
+                "Votes": "1,073",
+                "Percent": "6.7",
+                "incumbent": false
+            },
+            {
+                "Name": "Keith W. Davis",
+                "Party": "AI",
+                "Votes": "421",
+                "Percent": "2.6",
+                "incumbent": false
+            },
+            {
+                "Name": "Eduardo \"Lalo\" Vargas",
+                "Party": "P&F",
+                "Votes": "358",
+                "Percent": "2.2",
+                "incumbent": false
+            }
+        ]
+    }
+]
