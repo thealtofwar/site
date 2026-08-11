@@ -58,6 +58,7 @@ nav > a {
 
 .blog-entry {
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
   text-decoration: none;
   color: inherit;
@@ -74,6 +75,20 @@ nav > a {
 
 .blog-desc-text {
   margin-right: 2%;
+}
+
+.blog-desc-image {
+  flex-basis: 100%;
+}
+
+.blog-desc-image img {
+  width: 50%;
+}
+
+@media (max-width: 1000px) {
+  .blog-desc-image img {
+    width: 100%;
+  }
 }
 
 .footer {

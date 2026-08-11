@@ -10,6 +10,9 @@ description: NAME's statistical visualizations.
         <span class="blog-desc-title">{{ result.description }}</span>
         <span class="blog-desc-text">Date: {{ result.date |> formatDate }}</span>
         <span class="blog-desc-text">Tags: {{ result.tags |> formatTags }}</span>
+        <div class="blog-desc-image">
+            <img src="/assets/{{ result.url.replace("/statviz", "") }}{{ result.image }}" alt="{{ result.imageAlt }}">
+        </div>
     </a>
 {{ /for }}
 </div>

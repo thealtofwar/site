@@ -9,16 +9,24 @@
     <script src="/assets/i.js"></script>
   </head>
   <body>
-    <nav>
+    <nav role="navigation">
       <a href="/">Main Page</a>
       <a href="/blog/">Blog</a>
       <a href="/statviz/">Statviz</a>
     </nav>
-    {{ content |> replacePlaceholders }}
-    <p class="footer">
-      © 2026 {{ name }}
-      <br>
-      <a rel="noopener" target="_blank" href="https://github.com/thealtofwar/site">This site</a> is open-source software, and it <a rel="noopener" target="_blank" href="https://github.com/thealtofwar/site/blob/main/LICENSE">incorporates components from other open-source projects.</a>
-    </p>
+    <main role="main">
+      {{ content |> replacePlaceholders }}
+    </main>
+    <footer role="contentinfo">
+      <p class="footer">
+        {{ additionalFooter }}
+        {{ if additionalFooter != null }}
+        <br>
+        {{ /if }}
+        © 2026 {{ name }}
+        <br>
+        <a rel="noopener" target="_blank" href="https://github.com/thealtofwar/site">This site</a> is open-source software, and it <a rel="noopener" target="_blank" href="https://github.com/thealtofwar/site/blob/main/LICENSE">incorporates components from other open-source projects.</a>
+      </p>
+    </footer>
   </body>
 </html>
