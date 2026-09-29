@@ -2,3 +2,5 @@ _site
 _cache
 .env
 deploy_script
+# hide unpublished markdown files
+_*.md

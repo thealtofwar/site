@@ -41,6 +41,10 @@
     "serve": {
       "description": "Run and serve the site for development",
       "command": "deno task lume -s"
+    },
+    "deploy": {
+      "description": "Deploy the site",
+      "command": "deno task build && sftp -b deploy_script web"
     }
   },
   "compilerOptions": {
